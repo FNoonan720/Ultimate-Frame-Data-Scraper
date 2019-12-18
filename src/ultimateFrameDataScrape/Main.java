@@ -30,7 +30,9 @@ public class Main {
 
 		ArrayList<Document> docList = new ArrayList<Document>();
 		
+		System.out.print("\nScraping ultimateframedata.com...\t\t\t");		
 		for(int i = 0; i < charList.size(); i++) {
+		//for(int i = 0; i < 30; i++) {
 			driver.get("https://ultimateframedata.com/" + charList.get(i) + ".php");
 			Thread.sleep(250);
 			
@@ -38,28 +40,168 @@ public class Main {
 		}
 		
 		driver.close();
+		System.out.println("Done!");
 		
+		System.out.print("Parsing HTML elements into ArrayList tables...\t\t");
 		ArrayList<String> charNames = new ArrayList<String>();
 		ArrayList<ArrayList<String>> moveNameList = new ArrayList<ArrayList<String>>();
-		ArrayList<ArrayList<String>> moveStartupList = new ArrayList<ArrayList<String>>();
-		ArrayList<ArrayList<String>> moveAdvList = new ArrayList<ArrayList<String>>();
+		ArrayList<ArrayList<Integer>> moveStartupList = new ArrayList<ArrayList<Integer>>();
+		ArrayList<ArrayList<Integer>> moveAdvList = new ArrayList<ArrayList<Integer>>();
 		for(int i = 0; i < docList.size(); i++) {
 			String charName = docList.get(i).getElementsByClass("charactername").text();
 			charNames.add(charName);
 			Elements moveNameEls = docList.get(i).getElementsByClass("movename");
-			Elements moveStartupEls = docList.get(i).getElementsByClass("startup");
+			Elements moveStartupEls = docList.get(i).getElementsByClass("startup");			
 			Elements moveAdvEls = docList.get(i).getElementsByClass("advantage");
 			ArrayList<String> moveNameTemp = new ArrayList<String>();
-			ArrayList<String> moveStartupTemp = new ArrayList<String>();
-			ArrayList<String> moveAdvTemp = new ArrayList<String>();
+			ArrayList<Integer> moveStartupTemp = new ArrayList<Integer>();
+			ArrayList<Integer> moveAdvTemp = new ArrayList<Integer>();
+			
 			for(int j = 0; j < moveNameEls.size(); j++) {
 				moveNameTemp.add(moveNameEls.get(j).text());
 			}
+			
 			for(int j = 0; j < moveStartupEls.size(); j++) {
-				moveStartupTemp.add(moveStartupEls.get(j).text());
+				String startupText = moveStartupEls.get(j).text();
+				
+				String[] split;
+				if(startupText.contains(" /")) {		// If " /"
+					split = startupText.split("/");
+					startupText = split[0].substring(0, split[0].length()-1);
+				}
+				if(startupText.contains("/")) {			// If "/"
+					split = startupText.split("/");
+					startupText = split[0];
+				}
+				if(startupText.contains(" (")) {		// If " ("
+					split = startupText.split(" ");
+					startupText = split[0];
+				}
+				if(startupText.contains("--")) {		// If "--"
+					startupText = "0";
+				}
+				if(startupText.contains("—")) {			// If "—"
+					split = startupText.split("—");
+					startupText = split[0];
+				}
+				if(startupText.contains("-")) {			// If "-"
+					split = startupText.split("-");
+					startupText = split[0];
+				}
+				if(startupText.contains("...")) {		// If "..."
+					startupText = startupText.substring(0, startupText.length()-3);
+				}
+				if(startupText.charAt(0) == '[') {
+					startupText = startupText.substring(1, startupText.length());
+				}
+				if(startupText.length() > 1) {			// If "#("
+					if(startupText.charAt(1) == '(') {
+						startupText = startupText.substring(0, 1);
+					}
+				}
+				if(startupText.length() > 2) {			// If "##("
+					if(startupText.charAt(2) == '(') {
+						startupText = startupText.substring(0, 2);
+					}
+				}
+				if(startupText.contains(",")) {			// If ","
+					split = startupText.split(",");
+					startupText = split[0];
+				}
+				if(startupText.contains("**")) {		// If "**"
+					startupText = "0";
+				}
+				if(startupText.contains("Weak: ")) {		// If "Weak: "
+					startupText = startupText.substring(6, startupText.length());
+				}
+				if(startupText.contains(" | ")) {			// If "-"
+					split = startupText.split(" | ");
+					startupText = split[0];
+				}
+				if(startupText.charAt(0) == '~') {
+					startupText = startupText.substring(1, startupText.length());
+				}
+
+				moveStartupTemp.add(Integer.parseInt(startupText));
 			}
 			for(int j = 0; j < moveAdvEls.size(); j++) {
-				moveAdvTemp.add(moveAdvEls.get(j).text());
+				String advText = moveAdvEls.get(j).text();
+				
+				String[] split;
+				if(advText.contains("Shield")) {		// If "Shield Breaks"
+					advText = "0";
+				}
+				if(advText.contains("Unblockable")) {	// If "Shield Breaks"
+					advText = "0";
+				}
+				if(advText.contains("Chain")) {		// If "Chain"
+					advText = "0";
+				}
+				if(advText.contains("--")) {		// If "--"
+					advText = "0";
+				}
+				if(advText.contains("**")) {		// If "**"
+					advText = "0";
+				}
+				if(advText.contains(" to ")) {
+					split = advText.split(" to ");
+					advText = split[0];
+				}
+				if(advText.contains(" /")) {		// If " /"
+					split = advText.split(" ");
+					advText = split[0];
+				}
+				if(advText.contains("/")) {			// If "/"
+					split = advText.split("/");
+					advText = split[0];
+				}
+				if(advText.contains(" (")) {		// If " ("
+					split = advText.split(" ");
+					advText = split[0];
+				}
+				if(advText.length() > 2) {			// If "-#("
+					if(advText.charAt(2) == '(') {
+						advText = advText.substring(0, 2);
+					}
+				}
+				if(advText.length() > 3) {			// If "-##("
+					if(advText.charAt(3) == '(') {
+						advText = advText.substring(0, 3);
+					}
+				}
+				if(advText.contains(" — ")) {			// If " — "
+					split = advText.split(" — ");
+					advText = split[0];
+				}
+				if(advText.contains("—")) {			// If "—"
+					split = advText.split("—");
+					advText = split[0];
+				}
+				if(advText.contains(",")) {			// If ","
+					split = advText.split(",");
+					advText = split[0];
+				}
+				if(advText.charAt(0) == '(') {
+					advText = advText.substring(1, advText.length());
+				}
+				if(advText.contains(" | ")) {			// If "-"
+					split = advText.split(" | ");
+					advText = split[0];
+				}
+				if(advText.contains("Purple: ")) {		// If "Purple: "
+					advText = advText.substring(8, advText.length());
+				}
+				if(charList.get(i).equals("king_dedede") && moveNameTemp.get(j).equals("Forward Smash")) {
+					advText = "-25";
+				}
+				if(charList.get(i).equals("shulk") && moveNameTemp.get(j).equals("Down Smash")) {
+					advText = "-37";
+				}
+				if(charList.get(i).equals("snake") && moveNameTemp.get(j).equals("C4 Detonate/Explosion")) {
+					advText = "20";
+				}
+				
+				moveAdvTemp.add(Integer.parseInt(advText));
 			}
 			
 			// Accounts for Donkey Kong having a different # of throws than every other character
@@ -81,23 +223,24 @@ public class Main {
 				moveNameTemp.remove(moveNameTemp.size()-1);
 				moveStartupTemp.remove(moveStartupTemp.size()-1);
 			}
-			// Add "--" for Adv. on grabs/pummel
+			// Add '0' for Adv. on grabs/pummel
 			for(int k = 0; k < 4; k++) {
-				moveAdvTemp.add("--");
+				moveAdvTemp.add(0);
 			}
 			
 			moveNameList.add(moveNameTemp);
 			moveStartupList.add(moveStartupTemp);
 			moveAdvList.add(moveAdvTemp);
 		}
+		System.out.println("Done!");
 		
+		System.out.print("Converting to TSV file...\t\t\t\t");
 		String basePath = new File("").getAbsolutePath();
 		File tsvFile = new File(basePath + "\\frame-data.tsv");
 		FileWriter fileWriter = new FileWriter(tsvFile);
 		
 		for(int i = 0; i < charNames.size(); i++) {
 			fileWriter.append(charNames.get(i)+"\n");
-			System.out.println("printing i = " + i);
 			for(int j = 0; j < moveNameList.get(i).size(); j++) {
 				fileWriter.append(moveNameList.get(i).get(j)+"\t");
 				fileWriter.append(moveStartupList.get(i).get(j)+"\t");
@@ -108,8 +251,9 @@ public class Main {
 		
 		fileWriter.flush();
 		fileWriter.close();
+		System.out.println("Done!");
 		
-		System.out.println("Data can be found in 'frame-data.tsv'.");
+		System.out.println("\nData can be found in 'frame-data.tsv'.");
 		
 	}
 

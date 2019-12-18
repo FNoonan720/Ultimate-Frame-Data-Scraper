@@ -2,146 +2,146 @@ Banjo & Kazooie
 Jab 1	4	-20
 Jab 2	4	-17
 Jab 3	5	-21
-Rapid Jab	5/7/9...	--
+Rapid Jab	5	0
 Rapid Jab Finisher	7	-31
-Forward Tilt	7	-12/-14
+Forward Tilt	7	-12
 Up Tilt	11	-10
-Down Tilt	12	-19/-19
+Down Tilt	12	-19
 Dash Attack	9	-16
 Forward Smash	19	-22
-Up Smash	9/13/15/17/19/21/23/25/26	-35
+Up Smash	9	-35
 Down Smash	13	-23
-Neutral Air	10/13/16/19/22/25/28/31	-14/-13
-Forward Air	15	-6/-6
-Back Air	8/12/16	-16/-15
-Up Air	7/9	-10/-9
+Neutral Air	10	-14
+Forward Air	15	-6
+Back Air	8	-16
+Up Air	7	-10
 Down Air	15	-23
 Neutral B (Egg Firing)	13	-27
-Breegull Blaster	4(+28)	-13 — -14
+Breegull Blaster	4	-13
 Side B (Wonderwing)	18	-54
 Up B (Shock Spring Jump)	15	-20
 Down B (Rear Egg)	10	-23
-Grab	7	--
-Dash Grab	10	--
-Pivot Grab	11	--
-Pummel	1	--
+Grab	7	0
+Dash Grab	10	0
+Pivot Grab	11	0
+Pummel	1	0
 
 bayonetta
 Jab 1	9	-19
 Jab 2	7	-21
 Jab 3	7	-29
-Rapid Jab	6/10/14	**
+Rapid Jab	6	0
 Rapid Jab Finisher	11	-45
 Forward Tilt 1	12	-15
 Forward Tilt 2	12	-23
 Forward Tilt 3	14	-21
-Up Tilt	9/15	-19/-10
+Up Tilt	9	-19
 Down Tilt	7	-15
 Dash Attack	15	-17
-Forward Smash	17	-38/-39
+Forward Smash	17	-38
 Up Smash	18	-35
-Down Smash	20/25	-32
-Neutral Air	9	-6/-7/-16
+Down Smash	20	-32
+Neutral Air	9	-6
 Forward Air 1	7	-7
 Forward Air 2	7	-8
 Forward Air 3	12	-5
-Back Air	11	-5/-6
-Up Air	9	-5/-14
+Back Air	11	-5
+Up Air	9	-5
 Down Air	18	-23
-Neutral B (Bullet Climax)	17/22/32/37	-32
-Neutral B, Full Charge (Bullet Climax, Full Charge)	42/47/57/62	-29
-Side B (Heel Slide)	15/51	-25/-26/-15
+Neutral B (Bullet Climax)	17	-32
+Neutral B, Full Charge (Bullet Climax, Full Charge)	42	-29
+Side B (Heel Slide)	15	-25
 After Burner Kick	7	-18
-After Burner Kick, Down	8	-14/-33
-Up B (Witch Twist)	6/11/14/17/20/23/27	+0
-Down B (Witch Time)	8 (start of counter)	--
-Grab	7	--
-Dash Grab	10	--
-Pivot Grab	11	--
-Pummel	1/13	--
+After Burner Kick, Down	8	-14
+Up B (Witch Twist)	6	0
+Down B (Witch Time)	8	0
+Grab	7	0
+Dash Grab	10	0
+Pivot Grab	11	0
+Pummel	1	0
 
 bowser
 Jab 1	7	-13
 Jab 2	9	-9
 Forward Tilt	10	-15
 Up Tilt	11	-19
-Down Tilt	10/15	-22
+Down Tilt	10	-22
 Dash Attack	11	-33
 Forward Smash	22	-32
-Up Smash	16/37	-27/-30/-12
-Down Smash	12/28	-49/-34
-Neutral Air	8/14/18/**	-12
-Forward Air	11	-9/-10
+Up Smash	16	-27
+Down Smash	12	-49
+Neutral Air	8	-12
+Forward Air	11	-9
 Back Air	9	-17
 Up Air	9	-12
 Down Air	17	-31
-Neutral B (Fire Breath)	23/30/37/44...	--
-Side B (Flying Slam)	6	--
-Up B (Whirling Fortress)	6/11/16/21/26/31/36/38	-36
-Up B, Air (Whirling Fortress, Air)	6/8/12/16/20/24/28/32/36/40/44/48	--
-Down B (Bowser Bomb)	11/37.../1	--
-Down B, Air (Bowser Bomb, Air)	31.../1	--
-Grab	8	--
-Dash Grab	11	--
-Pivot Grab	12	--
-Pummel	2	--
+Neutral B (Fire Breath)	23	0
+Side B (Flying Slam)	6	0
+Up B (Whirling Fortress)	6	-36
+Up B, Air (Whirling Fortress, Air)	6	0
+Down B (Bowser Bomb)	11	0
+Down B, Air (Bowser Bomb, Air)	31	0
+Grab	8	0
+Dash Grab	11	0
+Pivot Grab	12	0
+Pummel	2	0
 
 Bowser Jr
 Jab 1	4	-12
 Jab 2	4	-22
-Rapid Jab	4/7/10...	--
+Rapid Jab	4	0
 Rapid Jab Finisher	6	-32
-Forward Tilt	7	-18/-16
+Forward Tilt	7	-18
 Up Tilt	7	-19
-Down Tilt	4/12/23	-11
-Dash Attack	8/11/14/17/20/25	-17
-Forward Smash	18/21/24/27/30/35	-12
-Up Smash	7/9/12/15/18/22	-26
+Down Tilt	4	-11
+Dash Attack	8	-17
+Forward Smash	18	-12
+Up Smash	7	-26
 Down Smash	15	-32
-Neutral Air	7	-6/-7/-7/-5/-6/-6
+Neutral Air	7	-6
 Forward Air	10	-11
-Back Air	12	-9/-10
+Back Air	12	-9
 Up Air	6	-5
-Down Air	15/18/21/24/27/30/33/36/39	-11
-Neutral B (Clown Cannon)	37-97	-23 to -17
-Side B (Clown Kart Dash)	23	--
+Down Air	15	-11
+Neutral B (Clown Cannon)	37	-23
+Side B (Clown Kart Dash)	23	0
 Clown Kart Dash (spinout)	3	-40
-Up B (Abandon Ship)	21/56	--
-Abandon Ship (Hammer)	8/13	--
-Down B (Mechakoopa)	--	--
-Grab	11	--
-Dash Grab	14	--
-Pivot Grab	15	--
-Pummel	1	--
+Up B (Abandon Ship)	21	0
+Abandon Ship (Hammer)	8	0
+Down B (Mechakoopa)	0	0
+Grab	11	0
+Dash Grab	14	0
+Pivot Grab	15	0
+Pummel	1	0
 
 Captain Falcon
 Jab 1	3	-11
 Jab 2	5	-10
 Jab 3	6	-20
-Rapid Jab	5/7/9	--
+Rapid Jab	5	0
 Rapid Jab Finisher	6	-39
-Forward Tilt	7	-14/-13
+Forward Tilt	7	-14
 Up Tilt	14	-12
 Down Tilt	11	-13
 Dash Attack	7	-13
 Forward Smash	19	-27
-Up Smash	22/28	-7
-Down Smash	19/29	-19/-7
-Neutral Air	7/13	-4/-4
-Forward Air	14	-11/-15
-Back Air	10	-5/-7
-Up Air	7	-6/-6/-6
+Up Smash	22	-7
+Down Smash	19	-19
+Neutral Air	7	-4
+Forward Air	14	-11
+Back Air	10	-5
+Up Air	7	-6
 Down Air	16	-7
-Neutral B (Falcon Punch)	53/62	-28/-31
-Side B (Raptor Boost)	5(+10)	-12
-Side B, Air (Raptor Boost, Air)	5(+19)	--
-Up B (Falcon Dive)	14	--
+Neutral B (Falcon Punch)	53	-28
+Side B (Raptor Boost)	5	-12
+Side B, Air (Raptor Boost, Air)	5	0
+Up B (Falcon Dive)	14	0
 Down B (Falcon Kick)	15	-51
 Down B, Air (Falcon Kick, Air)	16	-25
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	1	--
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	1	0
 
 Chrom
 Jab	5	-10
@@ -150,15 +150,15 @@ Up Tilt	6	-22
 Down Tilt	7	-5
 Dash Attack	13	-21
 Forward Smash	13	-28
-Up Smash	12/13/15/17/19/22	-29
-Down Smash	6/21	-47/-31
-Neutral Air	6/15	-6/-6
+Up Smash	12	-29
+Down Smash	6	-47
+Neutral Air	6	-6
 Forward Air	10	-4
 Back Air	8	-6
 Up Air	5	-4
 Down Air	16	-9
-Neutral B (Flare Blade)	21-260	-15—Shieldbreak
-Side B, Hit 1 (Double Edged Dance, Hit 1)	9	-26/-16(air)
+Neutral B (Flare Blade)	21	0
+Side B, Hit 1 (Double Edged Dance, Hit 1)	9	-26
 Double Edged Dance, Hit 2 Neutral	5	-29
 Double Edged Dance, Hit 3 Neutral	4	-34
 Double Edged Dance, Hit 4 Neutral	7	-45
@@ -166,14 +166,14 @@ Double Edged Dance, Hit 2 Up	4	-30
 Double Edged Dance, Hit 3 Up	5	-33
 Double Edged Dance, Hit 4 Up	6	-31
 Double Edged Dance, Hit 3 Down	5	-34
-Double Edged Dance, Hit 4 Down	7/10/13/16/19	-47
-Up B (Soaring Slash)	10/39/53/**	-29
-Down B (Counter)	8 (Start of Counter)	--
-Counter, Attack	4	--
-Grab	7	--
-Dash Grab	10	--
-Pivot Grab	11	--
-Pummel	1	--
+Double Edged Dance, Hit 4 Down	7	-47
+Up B (Soaring Slash)	10	-29
+Down B (Counter)	8	0
+Counter, Attack	4	0
+Grab	7	0
+Dash Grab	10	0
+Pivot Grab	11	0
+Pummel	1	0
 
 cloud
 Jab 1	4	-21
@@ -183,145 +183,145 @@ Forward Tilt	9	-16
 Up Tilt	6	-18
 Down Tilt	7	-26
 Dash Attack	9	-26
-Forward Smash	19/24/28	-29/-30
+Forward Smash	19	-29
 Up Smash	15	-24
-Down Smash	8/21	-38/-20
+Down Smash	8	-38
 Neutral Air	5	-5
-Forward Air	18	-6/-6/-7
+Forward Air	18	-6
 Back Air	11	-3
-Up Air	8	-5/-5
-Down Air	11	-11/-12
-Neutral B (Blade Beam)	18(18)	-25(-33)
-Limit Blade Beam	16 (1/7/13/19/25/28)	-9
+Up Air	8	-5
+Down Air	11	-11
+Neutral B (Blade Beam)	18	-25
+Limit Blade Beam	16	-9
 Side B, Hit 1 (Cross Slash, Hit 1)	10	-25
 Cross Slash, Hit 2	2	-25
-Cross Slash, Hit 3	2/11/25	-24
-Limit Cross Slash	10/15/21/28/38	-12
-Up B (Climhazzard)	7/10	**
-Climhazzard, Followup	12	**
-Limit Climhazzard	7/10	-21
-Down B (Limit Charge)	--	--
-Down B (Finishing Touch)	14 (ground) // 16 (air)	-70/-71
-Grab	9	--
-Dash Grab	12	--
-Pivot Grab	13	--
-Pummel	1	--
+Cross Slash, Hit 3	2	-24
+Limit Cross Slash	10	-12
+Up B (Climhazzard)	7	0
+Climhazzard, Followup	12	0
+Limit Climhazzard	7	-21
+Down B (Limit Charge)	0	0
+Down B (Finishing Touch)	14	-70
+Grab	9	0
+Dash Grab	12	0
+Pivot Grab	13	0
+Pummel	1	0
 
 corrin
-Jab 1	5	-19/-18
+Jab 1	5	-19
 Jab 2	4	-22
-Jab 3	6	-20/-19
-Rapid Jab	12/16/20...	**
+Jab 3	6	-20
+Rapid Jab	12	0
 Rapid Jab Finisher	3	-32
 Forward Tilt	8	-16
 Up Tilt	7	-19
 Down Tilt	5	-17
-Dash Attack	12/14/16/18/20/23	-22
-Forward Smash	12/17	-31/-31/-29
-Up Smash	13	-31/-29/-28
-Down Smash	13	-27/-28/-25
-Neutral Air	6	-7/-7
+Dash Attack	12	-22
+Forward Smash	12	-31
+Up Smash	13	-31
+Down Smash	13	-27
+Neutral Air	6	-7
 Forward Air	9	-5
-Back Air	13	-9/-9
+Back Air	13	-9
 Up Air	7	-5
-Down Air	12/14/16/18/20/22/24/26/28	-21
-Neutral B (Dragon Fang Shot)	17—47	**
-Dragon Fang Shot (chomp)	24-54-85	-31 to -19
+Down Air	12	-21
+Neutral B (Dragon Fang Shot)	17	0
+Dragon Fang Shot (chomp)	24	-31
 Side B (Dragon Lunge, Pin)	4	-6
-Side B (Dragon Lunge, Air)	10	--
-Dragon Lunge, Pin Cancel	--	--
-Dragon Lunge, Pin Jump	--	--
+Side B (Dragon Lunge, Air)	10	0
+Dragon Lunge, Pin Cancel	0	0
+Dragon Lunge, Pin Jump	0	0
 Dragon Lunge, Pin Kick	10	-35
 Dragon Lunge, Back Kick	6	-48
-Up B (Dragon Ascent)	18/20/22/24/26/28/29	--
-Down B (Counter Surge)	7 (Start of Counter)	--
-Counter Surge, Attack	27	--
-Grab	7	--
-Dash Grab	10	--
-Pivot Grab	11	--
-Pummel	--	--
+Up B (Dragon Ascent)	18	0
+Down B (Counter Surge)	7	0
+Counter Surge, Attack	27	0
+Grab	7	0
+Dash Grab	10	0
+Pivot Grab	11	0
+Pummel	0	0
 
 daisy
 Jab 1	2	-22
 Jab 2	2	-23
-Forward Tilt	7	-22/-21
-Up Tilt	9	-20/-18
+Forward Tilt	7	-22
+Up Tilt	9	-20
 Down Tilt	8	-8
-Dash Attack	6/17	-14
-Forward Smash	15	-20/-21/-18
-Up Smash	14	-20/-19
-Down Smash	6/10/14/18/22/26/30	-21
-Neutral Air	5	-2/-4
-Forward Air	16	-8/-8
-Back Air	6	-6/-8
-Up Air	10/15	-4/-4
-Down Air	12/18/24/30	-6/-5
-Neutral B (Toad)	9 (Start of Counter)	--
-Toad, Attack	2/6/8/12/14/17	--
+Dash Attack	6	-14
+Forward Smash	15	-20
+Up Smash	14	-20
+Down Smash	6	-21
+Neutral Air	5	-2
+Forward Air	16	-8
+Back Air	6	-6
+Up Air	10	-4
+Down Air	12	-6
+Neutral B (Toad)	9	0
+Toad, Attack	2	0
 Side B (daisy Bomber)	13	-13
 Side B, Air (daisy Bomber, Air)	13	-13
-Up B (daisy Parasol)	7/11/16/21/26/31	--
-Down B (Turnip Pull)	--	--
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	1	--
+Up B (daisy Parasol)	7	0
+Down B (Turnip Pull)	0	0
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	1	0
 
 Dark Pit
 Jab 1	4	-18
 Jab 2	5	-21
 Jab 3	3	-23
-Rapid Jab	6/8/10...	--
+Rapid Jab	6	0
 Rapid Jab Finisher	4	-40
-Forward Tilt	10	-22/-19
-Up Tilt	6/15	-23/-13
+Forward Tilt	10	-22
+Up Tilt	6	-23
 Down Tilt	6	-13
 Dash Attack	7	-17
-Forward Smash	10/21	-26
-Up Smash	6/7/10/18	-27
-Down Smash	5/18	-27/-28/-14/-15
-Neutral Air	4/7/10/13/16/19/22/25	-12/-11
-Forward Air	11/14/18	-10/-9
-Back Air	10	-5/-4
-Up Air	12/15/18/21/24	-12/-11
+Forward Smash	10	-26
+Up Smash	6	-27
+Down Smash	5	-27
+Neutral Air	4	-12
+Forward Air	11	-10
+Back Air	10	-5
+Up Air	12	-12
 Down Air	10	-10
-Neutral B (Silver Bow)	16—76	-21 to -15
+Neutral B (Silver Bow)	16	-21
 Side B (Electroshock Arm)	18	-36
 Side B, Air (Electrodash Arm, Air)	21	-40
-Up B (Power of Flight)	--	--
-Down B (Guardian Orbitars)	7 (Start of Reflect)	--
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	1	--
+Up B (Power of Flight)	0	0
+Down B (Guardian Orbitars)	7	0
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	1	0
 
 Dark Samus
 Jab 1	3	-10
 Jab 2	6	-15
-Forward Tilt	8	-17/-16/-15
+Forward Tilt	8	-17
 Up Tilt	15	-12
 Down Tilt	6	-27
 Dash Attack	8	-26
-Forward Smash	10	-30/-28
-Up Smash	11/15/19/23/27	-24
-Down Smash	9/17	-28/-19
-Neutral Air	8/14	-5/-5
-Forward Air	6/12/18/24/30	-12/-12/-11
-Back Air	9	-9/-10
-Up Air	5/7/10/13/16	-16/-16/-15
-Down Air	17	-8/-7
-Z Air	8/16	-5
-Neutral B (Charge Shot)	3(+13)	-16 to +4
+Forward Smash	10	-30
+Up Smash	11	-24
+Down Smash	9	-28
+Neutral Air	8	-5
+Forward Air	6	-12
+Back Air	9	-9
+Up Air	5	-16
+Down Air	17	-8
+Z Air	8	-5
+Neutral B (Charge Shot)	3	-16
 Charge Shot, Full Charge	16	-2
 Side B (Homing Missle)	18	-26
 Side B (Super Missle)	21	-24
-Up B (Screw Attack)	4/7/10/12/15/18/21/24/25/27	--
-Up B, Air (Screw Attack, Air)	5/7/9/11/13/15/17/19/21/23/25/27	--
-Down B (Bomb)	33—80	--
-Grab	15	--
-Dash Grab	17	--
-Pivot Grab	18	--
-Pummel	1	--
+Up B (Screw Attack)	4	0
+Up B, Air (Screw Attack, Air)	5	0
+Down B (Bomb)	33	0
+Grab	15	0
+Dash Grab	17	0
+Pivot Grab	18	0
+Pummel	1	0
 
 diddy kong
 Jab 1	3	-13
@@ -330,34 +330,34 @@ Jab 3	5	-24
 Forward Tilt	10	-16
 Up Tilt	6	-17
 Down Tilt	4	-8
-Dash Attack	8/16/22	-14
-Forward Smash	12/21	-21
-Up Smash	5/12/19	-29
-Down Smash	9/14	-35/-28
+Dash Attack	8	-14
+Forward Smash	12	-21
+Up Smash	5	-29
+Down Smash	9	-35
 Neutral Air	8	-5
-Forward Air	6	-12/-12
+Forward Air	6	-12
 Back Air	5	-3
 Up Air	4	-10
 Down Air	15	-26
-Neutral B (Peanut Popgun)	16/17—121/124	-25 to -17/-19 to -13
+Neutral B (Peanut Popgun)	16	-25
 Peanut Popgun, Misfire	123	-85
-Side B (Monkey Flip)	18	--
-Monkey Flip, Attack	6	-5/-8
-Monkey Flip, Grab Success	11/29/59...	--
-Monkey Flip, Grab Attack	18/21	--
-Monkey Flip, Grab Jump	18/27	--
-Up B (Rocketbarrel Boost)	8—68	--
-Rocketbarrel Boost, Explosion	1	-39 to -41
-Down B (Banana Peel)	--	--
-Grab	7	--
-Dash Grab	10	--
-Pivot Grab	11	--
-Pummel	1	--
+Side B (Monkey Flip)	18	0
+Monkey Flip, Attack	6	-5
+Monkey Flip, Grab Success	11	0
+Monkey Flip, Grab Attack	18	0
+Monkey Flip, Grab Jump	18	0
+Up B (Rocketbarrel Boost)	8	0
+Rocketbarrel Boost, Explosion	1	-39
+Down B (Banana Peel)	0	0
+Grab	7	0
+Dash Grab	10	0
+Pivot Grab	11	0
+Pummel	1	0
 
 donkey kong
 Jab 1	5	-14
 Jab 2	5	-24
-Forward Tilt	7	-19/-18
+Forward Tilt	7	-19
 Up Tilt	5	-23
 Down Tilt	6	-12
 Dash Attack	9	-14
@@ -365,21 +365,21 @@ Forward Smash	22	-18
 Up Smash	14	-22
 Down Smash	11	-33
 Neutral Air	10	-6
-Forward Air	18	-11/-12
-Back Air	7	-6/-7
+Forward Air	18	-11
+Back Air	7	-6
 Up Air	6	-10
 Down Air	14	-8
-Neutral B (Giant Punch)	19(+7)	-33 to -21
+Neutral B (Giant Punch)	19	-33
 Giant Punch, Full Charge	19	-4
 Side B (Headbutt)	20	-32
-Up B (Spinning Kong)	19/25/32/40/49/55/62	-37
-Spinning Kong, Air	4/12...	**
-Down B (Hand Slap)	12/23	-15
-Hand Slap, Air	19/28	-4
-Grab	8	--
-Dash Grab	11	--
-Pivot Grab	12	--
-Pummel	2	--
+Up B (Spinning Kong)	19	-37
+Spinning Kong, Air	4	0
+Down B (Hand Slap)	12	-15
+Hand Slap, Air	19	-4
+Grab	8	0
+Dash Grab	11	0
+Pivot Grab	12	0
+Pummel	2	0
 
 Dr. Mario
 Jab 1	2	-13
@@ -387,166 +387,166 @@ Jab 2	2	-16
 Jab 3	3	-25
 Forward Tilt	5	-12
 Up Tilt	5	-17
-Down Tilt	5	-14/-16
+Down Tilt	5	-14
 Dash Attack	6	-12
-Forward Smash	15	-18/-20
+Forward Smash	15	-18
 Up Smash	9	-19
-Down Smash	5/14	-30/-19
-Neutral Air	3	-4/-3
-Forward Air	16	-11/-12
-Back Air	6	-5/-6
+Down Smash	5	-30
+Neutral Air	3	-4
+Forward Air	16	-11
+Back Air	6	-5
 Up Air	4	-4
 Down Air	16	-8
 Neutral B (Megavitamin Pill)	17	-23
 Side B (Super Sheet)	12	-15
-Up B (Super Jump Punch)	3/7/9/11/13/15/17	--
-Down B (Dr. Tornado)	10/14/18/22/26/30/40	-30
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	1	--
+Up B (Super Jump Punch)	3	0
+Down B (Dr. Tornado)	10	-30
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	1	0
 
 Duck Hunt
 Jab 1	4	-18
 Jab 2	5	-19
 Jab 3	6	-21
-Rapid Jab	5/7/9/...	--
+Rapid Jab	5	0
 Rapid Jab Finisher	5	-36
 Forward Tilt	8	-15
 Up Tilt	7	-13
 Down Tilt	6	-13
 Dash Attack	10	-23
-Forward Smash	17/23/29	-30
-Up Smash	12/20/28	-22
-Down Smash	12/20/28	-24
-Neutral Air	6	-6/-7
-Forward Air	7	-5/-6/-6
-Back Air	7	-9/-10
-Up Air	6/12/20	-9/-8
-Down Air	14/20	-12/-11
-Neutral B (Trick Shot)	1 / 16 / 1—2	--
-Side B (Clay Shooting)	17	--
-Clay Shooting, Detonate	4/5/14/23	--
-Up B (Duck Jump)	--	--
-Down B (Wild Gunman)	--	--
-Wild Gunman, Leader in brown coat	55	--
-Wild Gunman, Black suit	67	--
-Wild Gunman, Sombrero guy	73	--
-Wild Gunman, Short cowboy	79	--
-Wild Gunman, Tall cowboy	91	--
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	1	--
+Forward Smash	17	-30
+Up Smash	12	-22
+Down Smash	12	-24
+Neutral Air	6	-6
+Forward Air	7	-5
+Back Air	7	-9
+Up Air	6	-9
+Down Air	14	-12
+Neutral B (Trick Shot)	1	0
+Side B (Clay Shooting)	17	0
+Clay Shooting, Detonate	4	0
+Up B (Duck Jump)	0	0
+Down B (Wild Gunman)	0	0
+Wild Gunman, Leader in brown coat	55	0
+Wild Gunman, Black suit	67	0
+Wild Gunman, Sombrero guy	73	0
+Wild Gunman, Short cowboy	79	0
+Wild Gunman, Tall cowboy	91	0
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	1	0
 
 Falco
 Jab 1	2	-17
 Jab 2	3	-19
-Rapid Jab	5/7/9/...	--
+Rapid Jab	5	0
 Rapid Jab Finisher	5	-31
 Forward Tilt	6	-12
-Up Tilt	5/12	-12
-Down Tilt	10	-9/-10/-11
+Up Tilt	5	-12
+Down Tilt	10	-9
 Dash Attack	8	-22
 Forward Smash	17	-20
-Up Smash	7/13	-27
+Up Smash	7	-27
 Down Smash	8	-28
-Neutral Air	3/6/10/19	-7/-6
-Forward Air	7/11/15/19/23/26	-10
-Back Air	9	-8/-10
+Neutral Air	3	-7
+Forward Air	7	-10
+Back Air	9	-8
 Up Air	7	-5
-Down Air	10	-9/-10
-Neutral B (Blaster)	8/7	-24/-22
-Side B (Falco Phantasm)	18/18	-19/-14
-Up B (Fire Bird)	20/26/28/30/32/34/36/38/44/49/51/53/55/57/59/61	-21
+Down Air	10	-9
+Neutral B (Blaster)	8	-24
+Side B (Falco Phantasm)	18	-19
+Up B (Fire Bird)	20	-21
 Down B (Reflector)	5	-33
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	1	--
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	1	0
 
 fox
 Jab 1	2	-12
 Jab 2	2	-16
-Rapid Jab	5/7/9/...	--
+Rapid Jab	5	0
 Rapid Jab Finisher	3	-32
-Forward Tilt	6	-11/-10
-Up Tilt	3	-18/-16
-Down Tilt	7	-12/-13
+Forward Tilt	6	-11
+Up Tilt	3	-18
+Down Tilt	7	-12
 Dash Attack	4	-17
 Forward Smash	13	-22
 Up Smash	8	-36
 Down Smash	6	-36
-Neutral Air	4	-3/-4
-Forward Air	7/11/16/21/26	-14
+Neutral Air	4	-3
+Forward Air	7	-14
 Back Air	9	-4
-Up Air	9/12	-10/-9
-Down Air	5/8/11/14/17/20/23	-14
-Neutral B (Blaster)	11/13/20, 9/11/18	-18/-19/-19
-Side B (Fox Illusion)	25/25	-20/-28
-Up B (Fire Fox)	20/22/24/26/28/30/32/43/47	-34
+Up Air	9	-10
+Down Air	5	-14
+Neutral B (Blaster)	11	-18
+Side B (Fox Illusion)	25	-20
+Up B (Fire Fox)	20	-34
 Down B (Reflector)	3	-30
-Grab	6	--
-Dash Grab	10	--
-Pivot Grab	11	--
-Pummel	1	--
+Grab	6	0
+Dash Grab	10	0
+Pivot Grab	11	0
+Pummel	1	0
 
 ganondorf
 Jab	7	-8
-Forward Tilt	10	-17/-16
+Forward Tilt	10	-17
 Up Tilt	60	-14
 Down Tilt	10	-12
 Dash Attack	10	-9
 Forward Smash	29	-24
 Up Smash	20	-25
-Down Smash	15/35	-39/-13
-Neutral Air	7/17	(-7/-7)(-5/-6)
-Forward Air	14	-7/-7
-Back Air	10	-4/-4
-Up Air	8	-6/-6/-6/-7/-7/-8
-Down Air	16	-9/-10
-Neutral B (Warlock Punch)	70/80	-20/-14
-Neutral B, Air (Warlock Punch, Air)	70/80	-14/-12
-Side B (Flame Choke)	16	--
-Flame Choke, Success	31	--
-Side B, Air (Flame Choke, Air)	16	--
-Side B, Air Success (Flame Choke, Air Success)	--	--
-Up B (Dark Dive)	14	--
-Dark Dive, Grab Success	4/8/12/16/17	--
+Down Smash	15	-39
+Neutral Air	7	-7
+Forward Air	14	-7
+Back Air	10	-4
+Up Air	8	-6
+Down Air	16	-9
+Neutral B (Warlock Punch)	70	-20
+Neutral B, Air (Warlock Punch, Air)	70	-14
+Side B (Flame Choke)	16	0
+Flame Choke, Success	31	0
+Side B, Air (Flame Choke, Air)	16	0
+Side B, Air Success (Flame Choke, Air Success)	0	0
+Up B (Dark Dive)	14	0
+Dark Dive, Grab Success	4	0
 Down B (Wizard's Foot)	16	-29
 Down B, Air (Wizard's Foot, Air)	16	-34
-Grab	8	--
-Dash Grab	11	--
-Pivot Grab	12	--
-Pummel	2	--
+Grab	8	0
+Dash Grab	11	0
+Pivot Grab	12	0
+Pummel	2	0
 
 greninja
 Jab 1	3	-15
 Jab 2	3	-15
 Jab 3	5	-26
-Rapid Jab	4/7/10...	--
+Rapid Jab	4	0
 Rapid Jab Finisher	4	-39
-Forward Tilt	10	-15/-14
+Forward Tilt	10	-15
 Up Tilt	9	-18
 Down Tilt	5	-12
 Dash Attack	7	-13
 Forward Smash	13	-26
-Up Smash	12/18	-23
+Up Smash	12	-23
 Down Smash	11	-29
-Neutral Air	12	-3/-4
+Neutral Air	12	-3
 Forward Air	16	-6
-Back Air	5/7/11	-8/-7
-Up Air	7/10/13/16/19/22	-12/-12
+Back Air	5	-8
+Up Air	7	-12
 Down Air	17	-16
-Neutral B (Water Shuriken)	20—60	-18 to -13
-Side B (Shadow Sneak)	24(+5)	-29/-28
-Up B (Hydro Pump)	19	--
-Down B (Substitute)	8 (Start of Counter)	--
-Down B, Attack (Substitute, Attack)	19	-33/-32
-Grab	10	--
-Dash Grab	13	--
-Pivot Grab	14	--
-Pummel	2	--
+Neutral B (Water Shuriken)	20	-18
+Side B (Shadow Sneak)	24	-29
+Up B (Hydro Pump)	19	0
+Down B (Substitute)	8	0
+Down B, Attack (Substitute, Attack)	19	-33
+Grab	10	0
+Dash Grab	13	0
+Pivot Grab	14	0
+Pummel	2	0
 
 Hero
 Jab 1	6	-15
@@ -557,68 +557,68 @@ Forward Tilt 2	8	-31
 Up Tilt	8	-23
 Down Tilt	6	-19
 Dash Attack	21	-16
-Forward Smash	17	-36 (-26)
-Up Smash	13	-29 (-19)
-Down Smash	9/20	-37/-26 (-29/-18)
+Forward Smash	17	-36
+Up Smash	13	-29
+Down Smash	9	-37
 Neutral Air	8	-6
 Forward Air	14	-7
 Back Air	18	-9
 Up Air	6	-5
 Down Air	16	-12
-Neutral B (Frizz/Frizzle/Kafrizz)	[10(+7)] [11(+25)] [16(2/8/14/20)]	-22/-28/-24
-Side B, (Zap/Zapple/Kazap)	[9/13(+7)] [10/15(+16)] [43/50/72/75/81]	-12/-25/-29
-Up B (Woosh/Swoosh/Kaswoosh)	[4(+3)] [6/13/20/27(+13)] [39/49/59/69/79/89]	**
-Down B (Menu/Select)	--	--
+Neutral B (Frizz/Frizzle/Kafrizz)	10	-22
+Side B, (Zap/Zapple/Kazap)	9	-12
+Up B (Woosh/Swoosh/Kaswoosh)	4	0
+Down B (Menu/Select)	0	0
 Bang	5	-16
-Kaboom	6	+2
+Kaboom	6	2
 Sizz	6	-26
 Sizzle	6	-30
 Whack	6	-29
 Thwack	23	-28
-Kamikazee	44/50	--
-Magic Burst	23/33/43/53/63/73/83/93/101	-36 — -24
-Snooze	6	--
-Heal	**	--
-Oomph	**	--
-Acceleratle	**	--
-Bounce	**	--
-Kaclang	**	--
-Zoom	**	--
-Hocus Pocus	**	--
+Kamikazee	44	0
+Magic Burst	23	-36
+Snooze	6	0
+Heal	0	0
+Oomph	0	0
+Acceleratle	0	0
+Bounce	0	0
+Kaclang	0	0
+Zoom	0	0
+Hocus Pocus	0	0
 Flame Slash	6	-13
 Kacrackle Slash	6	-12
-Hatchet Man	37	Shield Breaks
+Hatchet Man	37	0
 Metal Slash	11	-26
-Psych Up	**	--
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	**	--
+Psych Up	0	0
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	0	0
 
 Ice Climbers
-Jab 1	4	-20(-15)
-Jab 2	4	-21(-12)
-Forward Tilt	9	-14(-10)
-Up Tilt	8/11/14/17/20/23/27	-16(-10)
-Down Tilt	8	-16(-10)
-Dash Attack	11	-24(-18)
-Forward Smash	11	-27(-22)
-Up Smash	12	-29(-24)
-Down Smash	9/16	-22/-17
-Neutral Air	6	-4(+2)
-Forward Air	19	-5(+3)
-Back Air	8	-3(+0)
-Up Air	7	-10(-3)
-Down Air	12	-16(-12)
-Neutral B (Ice Shot)	18/19	-29(-24)
-Side B, both (Squal Hammer, both)	10/14/18/23/28/34/40/51	-21
-Side B, alone (Squal Hammer, alone)	10/13/15/18/21/24/28/32/37/42/49	-24
-Up B (Belay)	16	--
-Down B (Blizzard)	16/21/26/31/36/41/46/51/56	-22(-15)
-Grab	8	--
-Dash Grab	10	--
-Pivot Grab	10	--
-Pummel	1	--
+Jab 1	4	-20
+Jab 2	4	-21
+Forward Tilt	9	-14
+Up Tilt	8	-16
+Down Tilt	8	-16
+Dash Attack	11	-24
+Forward Smash	11	-27
+Up Smash	12	-29
+Down Smash	9	-22
+Neutral Air	6	-4
+Forward Air	19	-5
+Back Air	8	-3
+Up Air	7	-10
+Down Air	12	-16
+Neutral B (Ice Shot)	18	-29
+Side B, both (Squal Hammer, both)	10	-21
+Side B, alone (Squal Hammer, alone)	10	-24
+Up B (Belay)	16	0
+Down B (Blizzard)	16	-22
+Grab	8	0
+Dash Grab	10	0
+Pivot Grab	10	0
+Pummel	1	0
 
 Ike
 Jab 1	4	-15
@@ -628,23 +628,23 @@ Forward Tilt	12	-17
 Up Tilt	11	-17
 Down Tilt	7	-13
 Dash Attack	15	-17
-Forward Smash	31	-39/-36
+Forward Smash	31	-39
 Up Smash	25	-34
-Down Smash	13/32	-46/-25
+Down Smash	13	-46
 Neutral Air	10	-5
 Forward Air	11	-9
 Back Air	7	-6
 Up Air	13	-5
 Down Air	16	-9
-Neutral B (Eruption)	30-239	-38 to Shieldbreak
-Side B (Quickdraw)	16	-28 to -22
-Up B (Aether)	15/44/51/61	-29
-Down B (Counter)	9 (Start of Counter)	--
-Counter, Attack	4	--
-Grab	7	--
-Dash Grab	10	--
-Pivot Grab	11	--
-Pummel	1	--
+Neutral B (Eruption)	30	0
+Side B (Quickdraw)	16	-28
+Up B (Aether)	15	-29
+Down B (Counter)	9	0
+Counter, Attack	4	0
+Grab	7	0
+Dash Grab	10	0
+Pivot Grab	11	0
+Pummel	1	0
 
 incineroar
 Jab 1	5	-14
@@ -654,82 +654,82 @@ Forward Tilt	12	-12
 Up Tilt	6	-19
 Down Tilt	9	-11
 Dash Attack	8	-21
-Forward Smash	16	-22/-24
+Forward Smash	16	-22
 Up Smash	13	-23
 Down Smash	18	-28
-Neutral Air	5	-6/-8
-Forward Air	8	-9/-9
-Back Air	7	-7/-6
+Neutral Air	5	-6
+Forward Air	8	-9
+Back Air	7	-7
 Up Air	7	-4
-Down Air	16	-11/-11/-12
-Neutral B (Darkest Lariat)	5/15/23/37/50/56	-65
-Side B (Alolan Whip, Grab)	18	--
-Alolan Whip, Lariat Attack	7	--
-Alolan Whip, Back Body Drop	8	--
-Alolan Whip, Chest Bounce (Failure)	--	--
-Up B (Cross Chop)	11/38	-51
-Down B (Revenge)	3 (Start of Counter)	--
-Revenge, Counter Attack	7	**
-Grab	8	--
-Dash Grab	12	--
-Pivot Grab	13	--
-Pummel	1	--
+Down Air	16	-11
+Neutral B (Darkest Lariat)	5	-65
+Side B (Alolan Whip, Grab)	18	0
+Alolan Whip, Lariat Attack	7	0
+Alolan Whip, Back Body Drop	8	0
+Alolan Whip, Chest Bounce (Failure)	0	0
+Up B (Cross Chop)	11	-51
+Down B (Revenge)	3	0
+Revenge, Counter Attack	7	0
+Grab	8	0
+Dash Grab	12	0
+Pivot Grab	13	0
+Pummel	1	0
 
 inkling
 Jab 1	3	-13
 Jab 2	2	-16
 Jab 3	4	-21
-Rapid Jab	4/7/10...	**
+Rapid Jab	4	0
 Rapid Jab Finisher	6	-38
 Forward Tilt	8	-17
 Up Tilt	7	-16
-Down Tilt	5/12	-13
+Down Tilt	5	-13
 Dash Attack	8	-16
-Forward Smash	16	-25/-24
-Up Smash	9/18	-44/-29/-32
-Down Smash	11/20	-29/-21
+Forward Smash	16	-25
+Up Smash	9	-44
+Down Smash	11	-29
 Neutral Air	6	-2
-Forward Air	10	-8/-9
-Back Air	7	-2/-3
-Up Air	12/17	-3/-3
-Down Air	16	-5/-6
-Neutral B (Splattershot)	12/16/20/24	-6
-Side B (Splat Roller)	16	-15 to -12
-Up B (Super Jump)	12	**/-29/-30
-Down B (Splat Bomb)	20—40	**
-Grab	8	--
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	1	--
+Forward Air	10	-8
+Back Air	7	-2
+Up Air	12	-3
+Down Air	16	-5
+Neutral B (Splattershot)	12	-6
+Side B (Splat Roller)	16	-15
+Up B (Super Jump)	12	0
+Down B (Splat Bomb)	20	0
+Grab	8	0
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	1	0
 
 isabelle
 Jab	3	-14
 Forward Tilt	8	-20
 Up Tilt	6	-19
-Down Tilt	9	-13/-17
+Down Tilt	9	-13
 Dash Attack	10	-21
 Forward Smash	14	-20
-Up Smash	11/16	-13
-Down Smash	8/12	-29/-26
-Neutral Air	5/8	-2/-3
+Up Smash	11	-13
+Down Smash	8	-29
+Neutral Air	5	-2
 Forward Air	10	-4
 Back Air	13	-3
-Up Air	6	-5/-6
-Down Air	14	-5/-6
-Neutral B (Pocket)	8 (Start of projectile pocket)	--
-Pocket, Throw	9	**
-Side B (Fishing Rod)	21	**
-Fishing Rod, Reel In	2 (Aerial Hook), 7 (Grounded Tilt Hook), 9 (Grounded Smash Hook)	**
-Fishing Rod, Throw Forward	15	**
-Fishing Rod, Throw Back	13	**
-Fishing Rod, Throw Up	22	**
-Fishing Rod, Throw Down	18/22	**
-Up B (Balloon Trip)	**	**
-Down B (Lloid Trap)	9/17/25/34/43/51	**
-Grab	14	--
-Dash Grab	15	--
-Pivot Grab	17	--
-Pummel	**	--
+Up Air	6	-5
+Down Air	14	-5
+Neutral B (Pocket)	8	0
+Pocket, Throw	9	0
+Side B (Fishing Rod)	21	0
+Fishing Rod, Reel In	2	0
+Fishing Rod, Throw Forward	15	0
+Fishing Rod, Throw Back	13	0
+Fishing Rod, Throw Up	22	0
+Fishing Rod, Throw Down	18	0
+Up B (Balloon Trip)	0	0
+Down B (Lloid Trap)	9	0
+Grab	14	0
+Dash Grab	15	0
+Pivot Grab	17	0
+Pummel	0	0
 
 jigglypuff
 Jab 1	5	-7
@@ -741,186 +741,186 @@ Dash Attack	5	-23
 Forward Smash	16	-22
 Up Smash	16	-19
 Down Smash	14	-26
-Neutral Air	6	-5/-6
-Forward Air	8	-5/-6
+Neutral Air	6	-5
+Forward Air	8	-5
 Back Air	10	-6
 Up Air	9	-5
-Down Air	7/10/13/16/19/22/25/28/31	-13
-Neutral B (Rollout)	~40/~60	**
+Down Air	7	-13
+Neutral B (Rollout)	40	0
 Side B (Pound)	13	-11
-Up B (Sing)	27/61/100	--
+Up B (Sing)	27	0
 Down B (Rest)	2	-189
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	1	--
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	1	0
 
 joker
 Jab 1	4	-16
 Jab 2	3	-17
 Jab 3	3	-26
-Forward Tilt	8/13	**/-15(**/-11)
-Up Tilt	8/11/14/17/20	-27
-Down Tilt	8	-22(-19)
-Dash Attack	6/15	**/-23
+Forward Tilt	8	0
+Up Tilt	8	-27
+Down Tilt	8	-22
+Dash Attack	6	0
 Forward Smash	16	-21
-Up Smash	10	-32(-30)
-Down Smash	12/16	-24/-20(--/-18)
+Up Smash	10	-32
+Down Smash	12	0
 Neutral Air	12	-5
-Forward Air	7/12	-10/-9
+Forward Air	7	-10
 Back Air	7	-5
-Up Air	5/9/13/17/20	-12
+Up Air	5	-12
 Down Air	13	-7
-Neutral B (Gun)	12/37/65	**
-Gun, Dash Forward	20	**
-Gun, Dash Back	22	**
-Gun, Jump (From Ground Only)	10/17/24/31	**
-Gun, Spiral (From Air Only)	12/15/18/24/27/30/ 36/39/42/48/51/54	**
-Gun, Shoot Below (From Air Only)	7/21/35/44	**
-Neutral B, Arsene (Gun Special, Arsene)	12/18/24	**
-Gun Special, Dash Forward	21/27/33	**
-Gun Special, Dash Back	23/29/35	**
-Gun Special, Jump (From Ground Only)	10/13/17/20/24/27/31	**
-Gun Special, Spiral (From Air Only)	12/15/18/24/27/30/ 36/39/42/48/51/54	**
-Gun Special, Shoot Below (From Air Only)	7/14/21/28/35/44	**
+Neutral B (Gun)	12	0
+Gun, Dash Forward	20	0
+Gun, Dash Back	22	0
+Gun, Jump (From Ground Only)	10	0
+Gun, Spiral (From Air Only)	12	0
+Gun, Shoot Below (From Air Only)	7	0
+Neutral B, Arsene (Gun Special, Arsene)	12	0
+Gun Special, Dash Forward	21	0
+Gun Special, Dash Back	23	0
+Gun Special, Jump (From Ground Only)	10	0
+Gun Special, Spiral (From Air Only)	12	0
+Gun Special, Shoot Below (From Air Only)	7	0
 Side B (Eiha)	16	-27
-Side B, Arsene (Eigaon)	16 (1/6/11/16)	**
-Up B (Grappling Hook)	20	**
-Air, Grappling Attack	5	--
-Up B, Arsene (Wings of Rebellion)	**	--
-Down B (Rebel's Guard)	3 (Start of Block)	--
-Rebel's Guard, Counterattack	8	--
-Down B, Arsene (Tetrakarn/Makarakarn)	4 (Start of Counter)	--
-Arsene, Tetrakarn Counterattack	4	--
-Arsene, Makarakarn Reflect	--	--
-Grab	6	--
-Dash Grab	8	--
-Pivot Grab	9	--
-Pummel	1	--
+Side B, Arsene (Eigaon)	16	0
+Up B (Grappling Hook)	20	0
+Air, Grappling Attack	5	0
+Up B, Arsene (Wings of Rebellion)	0	0
+Down B (Rebel's Guard)	3	0
+Rebel's Guard, Counterattack	8	0
+Down B, Arsene (Tetrakarn/Makarakarn)	4	0
+Arsene, Tetrakarn Counterattack	4	0
+Arsene, Makarakarn Reflect	0	0
+Grab	6	0
+Dash Grab	8	0
+Pivot Grab	9	0
+Pummel	1	0
 
 ken
 Jab 1 (Light)	2	-10
 Jab 2	3	-21
 Jab 3	8	-21
-Jab (Heavy, Close)	7	**
-Jab (Heavy, Far)	9/16	-10
+Jab (Heavy, Close)	7	0
+Jab (Heavy, Far)	9	-10
 Forward Tilt (Light, Close)	3	-20
 Forward Tilt (Light, Far)	8	-8
-Forward Tilt (Heavy)	10	-18/-14
+Forward Tilt (Heavy)	10	-18
 Up Tilt (Light)	3	-8
 Up Tilt (Heavy)	7	-19
 Down Tilt (Light)	2	-9
 Down Tilt (Heavy)	6	-14
 Dash Attack	7	-22
-Forward Smash	13	-24/-21
+Forward Smash	13	-24
 Up Smash	9	-24
 Down Smash	5	-25
-Neutral Air	6	-2/-2
-Forward Air	8	-7/-6, -7/-6
-Back Air	8	-4/-5
+Neutral Air	6	-2
+Forward Air	8	-7
+Back Air	8	-4
 Up Air	5	-8
 Down Air	8	-10
-Neutral B (Hadouken)	13	-35/-34
-Side B (Tatsumaki Senpukyaku)	8/13—38	-25 to -30
-Side B, Air (Tatsumaki Senpukyaku, Air)	8/13/18/23/28/33/38	-36
-Up B (Shoryuken)	6	**
-True Shoryuken	6	**
-Up B (Flame Shoryuken)	5/6/9	**
-True Flame Shoryuken	5/6/9	**
-Down B (Focus Attack)	12 (+21), 12(+31), 12(+59)	-32, -33, unblockable
-Focus Attack, Dash Cancel	--	-8/-9
-Nata Otoshi Geri (Input Command)	12/15(12/20)	-7/-9
-Oosoto Mawashi Geri (Input Command)	9(9/17)	-13/-19
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	1	--
+Neutral B (Hadouken)	13	-35
+Side B (Tatsumaki Senpukyaku)	8	-25
+Side B, Air (Tatsumaki Senpukyaku, Air)	8	-36
+Up B (Shoryuken)	6	0
+True Shoryuken	6	0
+Up B (Flame Shoryuken)	5	0
+True Flame Shoryuken	5	0
+Down B (Focus Attack)	12	-32
+Focus Attack, Dash Cancel	0	-8
+Nata Otoshi Geri (Input Command)	12	-7
+Oosoto Mawashi Geri (Input Command)	9	-13
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	1	0
 
 king dedede
 Jab 1	10	-18
 Jab 2	11	-13
-Rapid Jab	5/8/11...	--
+Rapid Jab	5	0
 Rapid Jab Finisher	4	-41
-Forward Tilt	12/16/20/23	-21
-Up Tilt	7	-21/-23
+Forward Tilt	12	-21
+Up Tilt	7	-21
 Down Tilt	6	-21
 Dash Attack	26	-26
-Forward Smash	40	?/-/-18/-25
+Forward Smash	40	-25
 Up Smash	17	-39
-Down Smash	12/20	-31/-23
-Neutral Air	7	-4/-6
+Down Smash	12	-31
+Neutral Air	7	-4
 Forward Air	13	-13
 Back Air	17	-8
-Up Air	10/12/14/16/18/20/22/24	-10
-Down Air	22	-13/-14
-Neutral B (Inhale)	17	--
-Inhale, Spit	6	--
-Side B (Gordo Throw)	29	-21/-11/-17
+Up Air	10	-10
+Down Air	22	-13
+Neutral B (Inhale)	17	0
+Inhale, Spit	6	0
+Side B (Gordo Throw)	29	-21
 Up B (Super Dedede Jump)	69	-46
-Down B (Jet Hammer, Partial Charge)	10(+17)	-39 to -24
+Down B (Jet Hammer, Partial Charge)	10	-39
 Down B, Full Charge (Jet Hammer, Full Charge)	9	-26
-Grab	8	--
-Dash Grab	11	--
-Pivot Grab	12	--
-Pummel	2	--
+Grab	8	0
+Dash Grab	11	0
+Pivot Grab	12	0
+Pummel	2	0
 
 king k. rool
 Jab 1	4	-16
 Jab 2	3	-20
 Jab 3	5	-21
-Forward Tilt	12	-20/-18
+Forward Tilt	12	-20
 Up Tilt	5	-21
 Down Tilt	13	-17
 Dash Attack	7	-38
-Forward Smash	19	-29/--/-29/--/-29/-30
-Up Smash	6/19/22	-55/-42
-Down Smash	22	-29/-34
-Neutral Air	7	-4/-5
-Forward Air	11	-5/-6/-7/-7
-Back Air	18	-7/-9
-Up Air	7	-8/-9
-Down Air	14	-9/-10
+Forward Smash	19	0
+Up Smash	6	-55
+Down Smash	22	-29
+Neutral Air	7	-4
+Forward Air	11	-5
+Back Air	18	-7
+Up Air	7	-8
+Down Air	14	-9
 Neutral B (Blunderbuss Kannonball)	25	-25
-Blunderbuss, Vacuum	7	--
-Blunderbuss, Second Shot	35	+7/-4
+Blunderbuss, Vacuum	7	0
+Blunderbuss, Second Shot	35	7
 Side B (Crownerang)	27	-26
-Up B (Propellerpack)	11	**
-Down B (Gut Check)	5 (Start of Counter)	**
-Gut Check, Counterattack	3, 9	--
-Grab	8	--
-Dash Grab	11	--
-Pivot Grab	12	--
-Pummel	**	--
+Up B (Propellerpack)	11	0
+Down B (Gut Check)	5	0
+Gut Check, Counterattack	3	0
+Grab	8	0
+Dash Grab	11	0
+Pivot Grab	12	0
+Pummel	0	0
 
 kirby
 Jab 1	2	-9
 Jab 2	3	-9
-Rapid Jab	5/7/9/11...	--
+Rapid Jab	5	0
 Rapid Jab Finisher	3	-32
-Forward Tilt	5	-10/-11
-Up Tilt	4	-10/-9
+Forward Tilt	5	-10
+Up Tilt	4	-10
 Down Tilt	4	-9
 Dash Attack	9	-38
 Forward Smash	13	-23
-Up Smash	12	-23/-24
+Up Smash	12	-23
 Down Smash	10	-33
-Neutral Air	8	-2/-3
-Forward Air	10/17/25	-5/-6/-5
-Back Air	6	-5/-6
+Neutral Air	8	-2
+Forward Air	10	-5
+Back Air	6	-5
 Up Air	8	-3
-Down Air	18/21/24/27/30/34	-12
-Neutral B (Inhale)	10	--
-Inhale, Copy/Spit	8/8	**
-Side B (Hammer)	11(+15)	-26 to -18
+Down Air	18	-12
+Neutral B (Inhale)	10	0
+Inhale, Copy/Spit	8	0
+Side B (Hammer)	11	-26
 Hammer, Full Charge	11	-18
-Hammer (Air)	28/42	**/**
-Up B (Final Cutter)	23/(41/50...)/**/**	--/--/-21/12
+Hammer (Air)	28	0
+Up B (Final Cutter)	23	0
 Down B (Stone)	11	-35
 Down B, Air (Stone, Air)	29	-17
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	1	--
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	1	0
 
 link
 Jab 1	8	-12
@@ -930,111 +930,111 @@ Forward Tilt	15	-12
 Up Tilt	8	-17
 Down Tilt	10	-11
 Dash Attack	20	-21
-Forward Smash 1	17	-27/-23/**
+Forward Smash 1	17	0
 Forward Smash 2	10	-41
-Up Smash	10/25/41	-28
-Down Smash	12/24	-33/-24
-Neutral Air	7	-2/-3
-Forward Air	16/24	-7/-7
-Back Air	6/15	-3/-3
+Up Smash	10	-28
+Down Smash	12	-33
+Neutral Air	7	-2
+Forward Air	16	-7
+Back Air	6	-3
 Up Air	11	-9
-Down Air	14	**
-Neutral B (Hero's Bow)	16-52	-21 to -15
-Side B (Boomerang)	27	-8/-6
+Down Air	14	0
+Neutral B (Hero's Bow)	16	-21
+Side B (Boomerang)	27	-8
 Up B (Spin Attack)	7	-56
-Up B, Air (Spin Attack, Air)	8/16/22/31/47	--
-Down B (Remote Bomb, Pull)	--	--
+Up B, Air (Spin Attack, Air)	8	0
+Down B (Remote Bomb, Pull)	0	0
 Down B (Remote Bomb, Detonate)	12	-19
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	1	--
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	1	0
 
 little mac
 Jab 1	1	-17
 Jab 2	1	-17
 Jab 3	4	-19
-Rapid Jab	4/6/8...	--
+Rapid Jab	4	0
 Rapid Jab Finisher	5	-25
-Forward Tilt	4/12	-17
+Forward Tilt	4	-17
 Up Tilt	4	-18
 Down Tilt	3	-14
 Dash Attack	7	-16
-Forward Smash	14/14/15	-16/-16/-13
+Forward Smash	14	-16
 Up Smash	10	-23
-Down Smash	10/17	-23/-16
+Down Smash	10	-23
 Neutral Air	2	-8
 Forward Air	10	-10
 Back Air	11	-13
 Up Air	5	-10
-Down Air	7	-15/-15
-Neutral B, Partial Charge (Straight Lunge, Partial Charge)	4(+32)	-34 to -19
+Down Air	7	-15
+Neutral B, Partial Charge (Straight Lunge, Partial Charge)	4	-34
 Neutral B, Full Charge (Straight Lunge, Full Charge)	123	-82
-K.O. Punch	9	Unblockable/-54
-Side B (Jolt Haymaker)	8/25	-39 to -36
-Side B, Air (Jolt Haymaker, Air)	8/25	-32 to -31
-Up B (Rising Uppercut)	3/7/11/15/19/27	**
-Down B (Slip Counter)	5 (Start of Counter)	--
-Slip Counter, Counterattack	16	--
-Grab	9	--
-Dash Grab	13	--
-Pivot Grab	14	--
-Pummel	1	--
+K.O. Punch	9	0
+Side B (Jolt Haymaker)	8	-39
+Side B, Air (Jolt Haymaker, Air)	8	-32
+Up B (Rising Uppercut)	3	0
+Down B (Slip Counter)	5	0
+Slip Counter, Counterattack	16	0
+Grab	9	0
+Dash Grab	13	0
+Pivot Grab	14	0
+Pummel	1	0
 
 lucario
-Jab 1	7	-21 | -20 | -19
-Jab 2	5	-26 | -26 | -25
-Jab 3	9	-26 | -25 | -24
-Forward Tilt	12/15	-12 | -11 | -8
-Up Tilt	6	-22/-21 | -20/-20 | -18/-17
-Down Tilt	9	-9 | -7 | -5
-Dash Attack	7	-28/-27 | -26/-24 | -22/-20
-Forward Smash	19	-27/-25 | -24/-26 | -19/-21
-Up Smash	15/19	-37/-38 | -34/-36 | -30/-31
-Down Smash	19	-28 | -25 | -21
-Neutral Air	10/18	-2/-2 | -1/-2 | 0/-1
-Forward Air	7	-6 | -6 | -5
-Back Air	13	-10/-10 | -9/-9 | -7/-7
-Up Air	10	-10/-10 | -9/-10 | -7/-9
-Down Air	4/11	-10/-9 | -9/-9 | -8/-8
-Neutral B (Aura Sphere)	9 (+8)	-30 | -29 | -27
-Aura Sphere, Full Charge	17	-27 | -22 | -16
-Side B (Force Palm)	24	-24/-30 | -19/-27 | -10/-24
-Force Palm, Grab	9/37	--
-Up B (Extreme Speed)	46	-23/-31 | -22/-31 | -19/-29
-Down B (Double Team)	5 (Start of Counter)	--
-Double Team, Counterattack	8	-31 | -27 | -21
-Grab	7	--
-Dash Grab	10	--
-Pivot Grab	11	--
-Pummel	1	--
+Jab 1	7	-21
+Jab 2	5	-26
+Jab 3	9	-26
+Forward Tilt	12	-12
+Up Tilt	6	-22
+Down Tilt	9	-9
+Dash Attack	7	-28
+Forward Smash	19	-27
+Up Smash	15	-37
+Down Smash	19	-28
+Neutral Air	10	-2
+Forward Air	7	-6
+Back Air	13	-10
+Up Air	10	-10
+Down Air	4	-10
+Neutral B (Aura Sphere)	9	-30
+Aura Sphere, Full Charge	17	-27
+Side B (Force Palm)	24	-24
+Force Palm, Grab	9	0
+Up B (Extreme Speed)	46	-23
+Down B (Double Team)	5	0
+Double Team, Counterattack	8	-31
+Grab	7	0
+Dash Grab	10	0
+Pivot Grab	11	0
+Pummel	1	0
 
 lucas
 Jab 1	2	-13
 Jab 2	3	-13
 Jab 3	6	-19
-Forward Tilt	7	-10/-8
-Up Tilt	4/7	-18
+Forward Tilt	7	-10
+Up Tilt	4	-18
 Down Tilt	3	-6
-Dash Attack	13	-15/-12
+Dash Attack	13	-15
 Forward Smash	14	-21
-Up Smash	28/30	-54
-Down Smash	20/29/39	-12
-Neutral Air	7/12/17/26	-10/-9
-Forward Air	9	-3/-2
-Back Air	15	-5/-4/-6
+Up Smash	28	-54
+Down Smash	20	-12
+Neutral Air	7	-10
+Forward Air	9	-3
+Back Air	15	-5
 Up Air	7	-3
-Down Air	10/18/26/34	-14/-13
+Down Air	10	-14
 Z Air	9	-2
-Neutral B (PK Freeze)	40-92	-14 to -5
+Neutral B (PK Freeze)	40	-14
 Side B (PK Fire)	21	-24
-Up B (PK Thunder)	20	--
-Up B, Self-hit (PK Thunder 2)	1/4/6/8/10/12/14/17/20/23/26/29	-21
-Down B (PSI Magnet)	19 (7 is start of absorb)	+0
-Grab	12	--
-Dash Grab	14	--
-Pivot Grab	15	--
-Pummel	1	--
+Up B (PK Thunder)	20	0
+Up B, Self-hit (PK Thunder 2)	1	-21
+Down B (PSI Magnet)	19	0
+Grab	12	0
+Dash Grab	14	0
+Pivot Grab	15	0
+Pummel	1	0
 
 lucina
 Jab 1	5	-16
@@ -1044,15 +1044,15 @@ Up Tilt	6	-19
 Down Tilt	7	-8
 Dash Attack	13	-21
 Forward Smash	10	-31
-Up Smash	13	-41/-35
-Down Smash	6/21	-42/-24
-Neutral Air	6/15	-4/-3
+Up Smash	13	-41
+Down Smash	6	-42
+Neutral Air	6	-4
 Forward Air	6	-6
 Back Air	7	-5
 Up Air	5	-3
-Down Air	9	-9/-9
-Neutral B (Shieldbreaker)	19—78	-23 to Shieldbreak
-Side B (Dancing Blade)	9	-26/-16
+Down Air	9	-9
+Neutral B (Shieldbreaker)	19	0
+Side B (Dancing Blade)	9	-26
 Dancing Blade 2 Neutral	5	-29
 Dancing Blade 3 Neutral	4	-35
 Dancing Blade 4 Neutral	7	-43
@@ -1060,14 +1060,14 @@ Dancing Blade 2 Up	4	-30
 Dancing Blade 3 Up	5	-34
 Dancing Blade 4 Up	6	-32
 Dancing Blade 3 Down	5	-34
-Dancing Blade 4 Down	7/10/13/16/19	-50
-Up B (Dolphin Slash)	5	--
-Down B (Counter)	6 (Start of Counter)	--
-Counter, Attack	4	--
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	1	--
+Dancing Blade 4 Down	7	-50
+Up B (Dolphin Slash)	5	0
+Down B (Counter)	6	0
+Counter, Attack	4	0
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	1	0
 
 luigi
 Jab 1	2	-13
@@ -1076,25 +1076,25 @@ Jab 3	6	-19
 Forward Tilt	5	-18
 Up Tilt	5	-15
 Down Tilt	5	-2
-Dash Attack	4/8/12/16/25	-18
+Dash Attack	4	-18
 Forward Smash	12	-19
 Up Smash	9	-20
-Down Smash	6/14	-21/-13
-Neutral Air	3	-3/-5
+Down Smash	6	-21
+Neutral Air	3	-3
 Forward Air	7	-9
-Back Air	6	-5/-6
-Up Air	5	-3/-4
-Down Air	10	-8/-8
+Back Air	6	-5
+Up Air	5	-3
+Down Air	10	-8
 Z Air	14	-2
 Neutral B (Fireball)	17	-20
-Side B (Green Missile)	22	-26 to -14/-10
-Up B (Super Jump Punch, Ground)	8	-79/-99
-Up B (Super Jump Punch, Air)	6	**
-Down B (Luigi Cyclone)	10.../40	-40
-Grab	14	--
-Dash Grab	16	--
-Pivot Grab	17	--
-Pummel	1	--
+Side B (Green Missile)	22	-26
+Up B (Super Jump Punch, Ground)	8	-79
+Up B (Super Jump Punch, Air)	6	0
+Down B (Luigi Cyclone)	10	-40
+Grab	14	0
+Dash Grab	16	0
+Pivot Grab	17	0
+Pummel	1	0
 
 Mario
 Jab 1	2	-14
@@ -1102,209 +1102,209 @@ Jab 2	2	-16
 Jab 3	3	-29
 Forward Tilt	5	-13
 Up Tilt	5	-18
-Down Tilt	5	-15/-16
+Down Tilt	5	-15
 Dash Attack	6	-17
-Forward Smash	15	-22/-20
+Forward Smash	15	-22
 Up Smash	9	-20
-Down Smash	5/14	-31/-21
-Neutral Air	3	-2/-3/-3/-3
-Forward Air	16	-12/-12/-12
-Back Air	6	-2/-3/-2/-3
+Down Smash	5	-31
+Neutral Air	3	-2
+Forward Air	16	-12
+Back Air	6	-2
 Up Air	4	-3
-Down Air	5/7/9/11/13/23	-11
+Down Air	5	-11
 Neutral B (Fireball)	17	-23
 Side B (Cape)	12	-16
-Up B (Super Jump Punch)	3/7/9/11/13/15/17	--
-Down B (F.L.U.D.D.)	2 (+19)	--
-Down B, Fully Charged (F.L.U.D.D.)	21	--
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	1	--
+Up B (Super Jump Punch)	3	0
+Down B (F.L.U.D.D.)	2	0
+Down B, Fully Charged (F.L.U.D.D.)	21	0
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	1	0
 
 marth
-Jab 1	5	-16/-14
-Jab 2	4	-19/-18
-Forward Tilt	8	-16/-14
-Up Tilt	6	-21/-18
-Down Tilt	7	-9/-6
-Dash Attack	13	-22/-20
-Forward Smash	10	-32/-29
-Up Smash	13	-41/-36
-Down Smash	6/21	-43/-41/-26/-23
-Neutral Air	6/15	-5/-4/-4/-3
-Forward Air	6	-6/-5
-Back Air	7	-6/-5
-Up Air	5	-4/-3
-Down Air	9	-9/-9/-9
-Neutral B (Shieldbreaker)	19—78	-23 to Shieldbreak
-Side B (Dancing Blade)	9	-26/-16
-Dancing Blade 2 Neutral	5	-29/-29
-Dancing Blade 3 Neutral	4	-35/-34
-Dancing Blade 4 Neutral	7	-43/-42
-Dancing Blade 2 Up	4	-30/-30
-Dancing Blade 3 Up	5	-34/-33
-Dancing Blade 4 Up	6	-32/-31
-Dancing Blade 3 Down	5	-34/-32
-Dancing Blade 4 Down	7/10/13/16/19	-50/-49
-Up B (Dolphin Slash)	5	--
-Down B (Counter)	6 (Start of Counter)	--
-Counter, Attack	4	--
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	1	--
+Jab 1	5	-16
+Jab 2	4	-19
+Forward Tilt	8	-16
+Up Tilt	6	-21
+Down Tilt	7	-9
+Dash Attack	13	-22
+Forward Smash	10	-32
+Up Smash	13	-41
+Down Smash	6	-43
+Neutral Air	6	-5
+Forward Air	6	-6
+Back Air	7	-6
+Up Air	5	-4
+Down Air	9	-9
+Neutral B (Shieldbreaker)	19	0
+Side B (Dancing Blade)	9	-26
+Dancing Blade 2 Neutral	5	-29
+Dancing Blade 3 Neutral	4	-35
+Dancing Blade 4 Neutral	7	-43
+Dancing Blade 2 Up	4	-30
+Dancing Blade 3 Up	5	-34
+Dancing Blade 4 Up	6	-32
+Dancing Blade 3 Down	5	-34
+Dancing Blade 4 Down	7	-50
+Up B (Dolphin Slash)	5	0
+Down B (Counter)	6	0
+Counter, Attack	4	0
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	1	0
 
 mega man
-Jab	7/19/31	-25/-23/-20
-Forward Tilt	7/19/31	-25/-23/-20
-Up Tilt	6	-49/-31/-33
+Jab	7	-25
+Forward Tilt	7	-25
+Up Tilt	6	-49
 Down Tilt	5	-33
-Dash Attack	8/11/14/17/20/23/26/36	-16
+Dash Attack	8	-16
 Forward Smash	19	-18
-Up Smash	8/11/15/19/23/27/31	-32
+Up Smash	8	-32
 Down Smash	17	-50
-Neutral Air	7/19/31	-25/-23/-20
-Forward Air	9	-7/-7/-8
-Back Air	4/7/10	-18/-17/-17
-Up Air	11/14/17/20/23...	--
-Down Air	23	+1/+0
+Neutral Air	7	-25
+Forward Air	9	-7
+Back Air	4	-18
+Up Air	11	0
+Down Air	23	1
 Neutral B (Metal Blade)	16	-17
-Side B (Crash Bomber)	19	**
-Up B (Rush Coil)	--	--
-Down B (Leaf Shield)	9—**	**
-Leaf Shield, Throw	--	**
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	1	--
+Side B (Crash Bomber)	19	0
+Up B (Rush Coil)	0	0
+Down B (Leaf Shield)	9	0
+Leaf Shield, Throw	0	0
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	1	0
 
 meta knight
-Rapid Jab	4/7/10...	--
+Rapid Jab	4	0
 Rapid Jab Finisher	3	-24
 Forward Tilt 1	6	-16
 Forward Tilt 2	2	-22
 Forward Tilt 3	2	-23
-Up Tilt	8	-20/-19
+Up Tilt	8	-20
 Down Tilt	3	-9
 Dash Attack	7	-18
 Forward Smash	24	-6
-Up Smash	8/12/17	-28
-Down Smash	4/9	-26/-19
-Neutral Air	6	-3/-4
-Forward Air	9/12/15	-8/-8
-Back Air	7/13/20	-9/-8
+Up Smash	8	-28
+Down Smash	4	-26
+Neutral Air	6	-3
+Forward Air	9	-8
+Back Air	7	-9
 Up Air	6	-6
 Down Air	4	-6
 Neutral B (Mach Tornado)	12	-81
-Side B (Drill Rush)	26/30/34/38/42/46/ 50/54/58/62/66/70	-24
-Up B (Shuttle Loop)	8/22	**
-Up B, Air (Shuttle Loop, Air)	7/20	**
-Down B (Dimensional Cape)	--	--
+Side B (Drill Rush)	26	-24
+Up B (Shuttle Loop)	8	0
+Up B, Air (Shuttle Loop, Air)	7	0
+Down B (Dimensional Cape)	0	0
 Dimensional Cape, Attack	34	-44
-Grab	7	--
-Dash Grab	11	--
-Pivot Grab	12	--
-Pummel	1	--
+Grab	7	0
+Dash Grab	11	0
+Pivot Grab	12	0
+Pummel	1	0
 
 mewtwo
 Jab	5	-12
-Rapid Jab	5/8/11...	--
+Rapid Jab	5	0
 Rapid Jab Finisher	6	-30
-Forward Tilt	10	-15/-15/-16
-Up Tilt	8	-14/-15/-15
-Down Tilt	6	-11/-12/-12
+Forward Tilt	10	-15
+Up Tilt	8	-14
+Down Tilt	6	-11
 Dash Attack	10	-14
-Forward Smash	19	-20/-18
-Up Smash	9/14/18/22	-39
+Forward Smash	19	-20
+Up Smash	9	-39
 Down Smash	21	-11
-Neutral Air	7/11/15/19/23/27	-8/-7
+Neutral Air	7	-8
 Forward Air	7	-3
-Back Air	13	-5/-6/-6
-Up Air	10	-3/-4/-4
+Back Air	13	-5
+Up Air	10	-3
 Down Air	15	-6
-Neutral B (Shadow Ball)	9(+12)	-15 to -1
+Neutral B (Shadow Ball)	9	-15
 Shadow Ball, Fully Charged	18	-4
-Side B (Confusion)	10 (21/23/25/27/29/31/33/39)	--
-Up B (Teleport)	**	--
+Side B (Confusion)	10	0
+Up B (Teleport)	0	0
 Down B (Disable)	16	-30
-Grab	7	--
-Dash Grab	10	--
-Pivot Grab	11	--
-Pummel	1	--
+Grab	7	0
+Dash Grab	10	0
+Pivot Grab	11	0
+Pummel	1	0
 
 mii brawler
 Jab 1	2	-10
 Jab 2	2	-14
-Rapid Jab	5/7/9...	--
+Rapid Jab	5	0
 Rapid Jab Finisher	4	-33
-Forward Tilt	6	-13/-13/-13
+Forward Tilt	6	-13
 Up Tilt	5	-18
 Down Tilt	7	-12
 Dash Attack	6	-19
 Forward Smash	17	-38
 Up Smash	8	-29
 Down Smash	9	-25
-Neutral Air	3	-2/-3
-Forward Air	8/15	-8/-8
+Neutral Air	3	-2
+Forward Air	8	-8
 Back Air	7	-6
 Up Air	6	-6
 Down Air	16	-13
 Shot Put	28	-19
-Flashing Mach Punch	15/18/21/24/27 (29/31/33/35/37/39/41/43/45/47/49/51/53/55/57/59/69)	-30
-Exploding Side Kick	50/52	-7/-5
-Onslaught	15 (1/4/8/10/13/15/18/28)	--
-Onslaught, Air	15 (1/4/8/10/13/15/18/28)	--
+Flashing Mach Punch	15	-30
+Exploding Side Kick	50	-7
+Onslaught	15	0
+Onslaught, Air	15	0
 Burning Dropkick	18	-22
-Suplex, Grab	13	--
-Suplex, Success	52	--
-Soaring Axe Kick	10/30	-23
-Helicopter Kick	8/15/20/26/31/36	--
-Thrust Uppercut	3/6/9/12/15/20	--
-Head-On Assault	8/31 (34/37/40...)	-44
-Head-On Assault, Air	23(26/29/32...)	-44
-Feint Jump	--	--
+Suplex, Grab	13	0
+Suplex, Success	52	0
+Soaring Axe Kick	10	-23
+Helicopter Kick	8	0
+Thrust Uppercut	3	0
+Head-On Assault	8	-44
+Head-On Assault, Air	23	-44
+Feint Jump	0	0
 Feint Jump, Kick	8	-27
-Counter Throw	--	--
-Counter Throw, Activated	3/16	--
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	1	--
+Counter Throw	0	0
+Counter Throw, Activated	3	0
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	1	0
 
 mii gunner
 Jab 1	5	-17
 Jab 2	4	-18
-Jab 3	6/12	-19
+Jab 3	6	-19
 Forward Tilt	7	-14
 Up Tilt	5	-22
 Down Tilt	8	-19
 Dash Attack	10	-20
-Forward Smash	17/21/25/29/33/37/40	-31
-Up Smash	11/15/19/23/27	-22
-Down Smash	9/23	-35/-19
+Forward Smash	17	-31
+Up Smash	11	-22
+Down Smash	9	-35
 Neutral Air	8	-7
 Forward Air	12	-1
 Back Air	9	-6
-Up Air	17/18/21/24/27/30/34	-11/-10
-Down Air	20	-12/-13/-12
-Charge Blast	3(+12)	-26 to -5
+Up Air	17	-11
+Down Air	20	-12
+Charge Blast	3	-26
 Laser Blaze	10	-23
-Grenade Launch	36	+10
+Grenade Launch	36	10
 Flame Pillar	21	-36
-Stealth Burst	36—66	-21 to -17
+Stealth Burst	36	-21
 Gunner Missile (Homing)	27	-9
 Gunner Missle (Super)	23	-11
-Lunar Launch	12	--
-Cannon Jump Kick	6/10	**
-Arm Rocket	**	--
-Echo Reflector	3 (4 is Start of Reflector)	-32
-Bomb Drop	18—133	-18
+Lunar Launch	12	0
+Cannon Jump Kick	6	0
+Arm Rocket	0	0
+Echo Reflector	3	-32
+Bomb Drop	18	-18
 Absorbing Vortex	7	-10
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	1	--
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	1	0
 
 mii swordfighter
 Jab 1	6	-9
@@ -1314,114 +1314,114 @@ Forward Tilt	10	-16
 Up Tilt	8	-17
 Down Tilt	5	-6
 Dash Attack	9	-18
-Forward Smash	15	-34/-34/-33
-Up Smash	11/14/21	-32
-Down Smash	7/15	-38/-28
+Forward Smash	15	-34
+Up Smash	11	-32
+Down Smash	7	-38
 Neutral Air	10	-5
-Forward Air	12/16/21	-10/-9
+Forward Air	12	-10
 Back Air	10	-4
-Up Air	11	-4/-6
-Down Air	14/19/24/29/34	-11
+Up Air	11	-4
+Down Air	14	-11
 Gale Strike	20	-33
 Shuriken of Light	13	-18
-Blurring Blade	17/21/25/29/33/44	-32 to -23
-Airborne Assault	2(+25)	-41
-Gale Stab	2(+7)	-24 to -16
-Chakram	18	-27/-20
-Stone Scabbard	13/42	-37
-Skyward Slash Dash	15/19/22/25/28/31/34	-38
-Hero's Spin	8	-57 to -53
-Hero's Spin (Air)	8/16/22/26/31/38/47	**
-Blade Counter	6 (Start of Counter)	--
-Blade Counter, Activated	21	--
-Reversal Slash	16 (5 is Start of Reflector)	-13
+Blurring Blade	17	-32
+Airborne Assault	2	-41
+Gale Stab	2	-24
+Chakram	18	-27
+Stone Scabbard	13	-37
+Skyward Slash Dash	15	-38
+Hero's Spin	8	-57
+Hero's Spin (Air)	8	0
+Blade Counter	6	0
+Blade Counter, Activated	21	0
+Reversal Slash	16	-13
 Power Thrust	14	-33
 Power Thrust (Air)	16	-31
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	1	--
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	1	0
 
 Mr. Game & Watch
 Jab	4	-7
-Rapid Jab	5/11/17...	--
+Rapid Jab	5	0
 Rapid Jab Finisher	2	-28
 Forward Tilt	8	-18
-Up Tilt	10/20	-16/-6
+Up Tilt	10	-16
 Down Tilt	6	-27
 Dash Attack	6	-21
-Forward Smash	17	-15/-13
+Forward Smash	17	-15
 Up Smash	21	-6
-Down Smash	12	-16/-15
-Neutral Air	7/12/17/22	-5/-4
-Forward Air	10/44	-3
-Back Air	10/14/18/22	-13
-Up Air	9/15/21/27/33/37	**
+Down Smash	12	-16
+Neutral Air	7	-5
+Forward Air	10	-3
+Back Air	10	-13
+Up Air	9	0
 Down Air	12	-17
 Neutral B (Chef)	18	-28
-Side B (Judge)	16	-30, -28, -27, -25, -20, -22, -20, -21, -6
-Up B (Fire)	3/9	**
-Down B (Oil Panic)	6 (Start of Absorb/Reflect)	--
-Oil Panic, Overload	2	**
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	1	--
+Side B (Judge)	16	-30
+Up B (Fire)	3	0
+Down B (Oil Panic)	6	0
+Oil Panic, Overload	2	0
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	1	0
 
 ness
 Jab 1	3	-13
 Jab 2	3	-13
 Jab 3	6	-18
 Forward Tilt	7	-17
-Up Tilt	5	-16/-17
-Down Tilt	3	-3/-4
-Dash Attack	8/15/23	-12
-Forward Smash	21	-21/-20/-19
+Up Tilt	5	-16
+Down Tilt	3	-3
+Dash Attack	8	-12
+Forward Smash	21	-21
 Up Smash	10	-33
-Down Smash	12/17/23/31	-21/-7
-Neutral Air	5	-4/-5
-Forward Air	8/13/18/20	-10/-9
-Back Air	10	-5/-6
-Up Air	8/10/12/14/15	-6/-5
-Down Air	20	-7/-8
-Neutral B (PK Flash)	44—121	-4 to +4
+Down Smash	12	-21
+Neutral Air	5	-4
+Forward Air	8	-10
+Back Air	10	-5
+Up Air	8	-6
+Down Air	20	-7
+Neutral B (PK Flash)	44	-4
 Side B (PK Fire)	18	-28
 Up B (PK Thunder)	20	-22
 Up B, Self-hit (PK Thunder 2)	1	-33
-Down B (PSI Magnet)	7 (7 is start of absorb)	-12
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	1	--
+Down B (PSI Magnet)	7	-12
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	1	0
 
 olimar
-Jab 1	4	-11/-10
-Jab 2	4	-9/-8
+Jab 1	4	-11
+Jab 2	4	-9
 Forward Tilt	15	-10
-Up Tilt	6/8/10/12/14/16	-17
+Up Tilt	6	-17
 Down Tilt	6	-17
-Dash Attack	8/11	-21
-Forward Smash (Early)	11	-13/-11/-16/-18/-10
-Forward Smash (Late)	13	-14/-13/-17/-19/-14
-Forward Smash (Later)	20 (Purple: 19)	-12/-10/-13/-13/-10
-Up Smash (Close)	12	-10/-8/-13/-15/-8
-Up Smash (Far)	12	-12/-11/-15/-17/-12
-Up Smash (Late)	17	-8/-6/-11/-12/-6
-Down Smash (Early)	10	-13/-11/-16/-17/-11
-Down Smash (Late)	14	-11/-9/-13/-14/-10
-Neutral Air	7/11/15/19/23	-11/-11
-Forward Air	7	-4/-5/-5/-6/-4
-Back Air	10	-4/-5/-5/-5/-3
-Up Air	8	-13/-14/-14/-15/-13
-Down Air	9	-13/-14/-14/-15/-13
-Neutral B (Pikmin Pluck)	--	--
-Side B (Pikmin Throw)	9	Purple: -6
-Up B (Winged Pikmin)	--	--
-Down B (Pikmin Order/Whistle)	2 (Start of Super Armor)	--
-Grab	12	--
-Dash Grab	12	--
-Pivot Grab	12	--
-Pummel	1	--
+Dash Attack	8	-21
+Forward Smash (Early)	11	-13
+Forward Smash (Late)	13	-14
+Forward Smash (Later)	20	-12
+Up Smash (Close)	12	-10
+Up Smash (Far)	12	-12
+Up Smash (Late)	17	-8
+Down Smash (Early)	10	-13
+Down Smash (Late)	14	-11
+Neutral Air	7	-11
+Forward Air	7	-4
+Back Air	10	-4
+Up Air	8	-13
+Down Air	9	-13
+Neutral B (Pikmin Pluck)	0	0
+Side B (Pikmin Throw)	9	-6
+Up B (Winged Pikmin)	0	0
+Down B (Pikmin Order/Whistle)	2	0
+Grab	12	0
+Dash Grab	12	0
+Pivot Grab	12	0
+Pummel	1	0
 
 pac man
 Jab 1	4	-12
@@ -1430,75 +1430,75 @@ Jab 3	4	-24
 Forward Tilt	5	-17
 Up Tilt	7	-10
 Down Tilt	7	-13
-Dash Attack	10/19/28/37	-3
+Dash Attack	10	-3
 Forward Smash	16	-25
-Up Smash	11/15	-24
+Up Smash	11	-24
 Down Smash	15	-30
-Neutral Air	3	-3/-4
+Neutral Air	3	-3
 Forward Air	5	-6
-Back Air	9	-8/-10
+Back Air	9	-8
 Up Air	9	-6
-Down Air	6/13/20/27	-10/-9
-Neutral B (Bonus Fruit, Throw)	12(+7)	-22/-20/-19/-17/-16/-18/-19/-14
-Side B (Power Pellet (Travel | Dash))	24—42 | 35—53	-42 to -54
-Up B (Pac-Jump)	4	**
+Down Air	6	-10
+Neutral B (Bonus Fruit, Throw)	12	-22
+Side B (Power Pellet (Travel | Dash))	24	-42
+Up B (Pac-Jump)	4	0
 Down B (Fire Hydrant)	12	-11
-Grab	12	--
-Dash Grab	14	--
-Pivot Grab	15	--
-Pummel	1	--
+Grab	12	0
+Dash Grab	14	0
+Pivot Grab	15	0
+Pummel	1	0
 
 palutena
 Jab 1	8	-12
-Rapid Jab	4/7/10...	--
+Rapid Jab	4	0
 Rapid Jab Finisher	3	-32
-Forward Tilt	14/24	-28
-Up Tilt	8/11/14/17/20/24	-27
+Forward Tilt	14	-28
+Up Tilt	8	-27
 Down Tilt	14	-17
 Dash Attack	6	-21
-Forward Smash	18	-34/-36
-Up Smash	18	-34/-37
-Down Smash	17	-41/-42
-Neutral Air	5/9/13/17/21/25/29	-10/-9
+Forward Smash	18	-34
+Up Smash	18	-34
+Down Smash	17	-41
+Neutral Air	5	-10
 Forward Air	9	-3
 Back Air	8	-5
-Up Air	10/13/16/19/22/24	-12/-11
+Up Air	10	-12
 Down Air	10	-7
-Neutral B (Autoreticle)	24/30/36	-24
-Side B (Explosive Flame)	28/33/38/43/48/53/57	-2
-Up B (Warp)	**	--
-Down B (Counter)	7 (Start of Counter/Reflect)	--
-Counter, Attack/Reflect	4/--	--
-Grab	7	--
-Dash Grab	10	--
-Pivot Grab	11	--
-Pummel	1	--
+Neutral B (Autoreticle)	24	-24
+Side B (Explosive Flame)	28	-2
+Up B (Warp)	0	0
+Down B (Counter)	7	0
+Counter, Attack/Reflect	4	0
+Grab	7	0
+Dash Grab	10	0
+Pivot Grab	11	0
+Pummel	1	0
 
 Peach
 Jab 1	2	-22
 Jab 2	2	-23
-Forward Tilt	7	-22/-21
-Up Tilt	9	-20/-18
+Forward Tilt	7	-22
+Up Tilt	9	-20
 Down Tilt	8	-8
-Dash Attack	6/17	-14
-Forward Smash	15	-20/-21/-18
-Up Smash	14	-20/-19
-Down Smash	6/10/14/18/22/26/30	-21
-Neutral Air	5	-2/-4
-Forward Air	16	-8/-8
-Back Air	6	-6/-8
-Up Air	10/15	-4/-4
-Down Air	12/18/24/30	-6/-5
-Neutral B (Toad)	9 (Start of Counter)	--
-Toad, Attack	2/6/8/12/14/17	--
+Dash Attack	6	-14
+Forward Smash	15	-20
+Up Smash	14	-20
+Down Smash	6	-21
+Neutral Air	5	-2
+Forward Air	16	-8
+Back Air	6	-6
+Up Air	10	-4
+Down Air	12	-6
+Neutral B (Toad)	9	0
+Toad, Attack	2	0
 Side B (Peach Bomber)	13	-13
 Side B, Air (Peach Bomber, Air)	13	-13
-Up B (Peach Parasol)	7/11/16/21/26/31	--
-Down B (Turnip Pull)	--	--
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	1	--
+Up B (Peach Parasol)	7	0
+Down B (Turnip Pull)	0	0
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	1	0
 
 pichu
 Jab	2	-12
@@ -1506,103 +1506,103 @@ Forward Tilt	5	-11
 Up Tilt	7	-10
 Down Tilt	7	-10
 Dash Attack	6	-20
-Forward Smash	16/19/22/25/28/31	-16
+Forward Smash	16	-16
 Up Smash	9	-21
-Down Smash	8/11/15/19/23	-21
-Neutral Air	3	-4/-4
-Forward Air	10/14/18/22	-10/-10
-Back Air	5/11/15/19/26/30	-16/-16
+Down Smash	8	-21
+Neutral Air	3	-4
+Forward Air	10	-10
+Back Air	5	-16
 Up Air	4	-8
 Down Air	14	-16
-Neutral B (Thunderjolt)	18	-29/-30
-Side B (Skull Bash)	17	-20 to +3
-Up B (Agility)	**	--
-Down B (Thunder)	9/26	-27
-Grab	6	--
-Dash Grab	8	--
-Pivot Grab	9	--
-Pummel	1	--
+Neutral B (Thunderjolt)	18	-29
+Side B (Skull Bash)	17	-20
+Up B (Agility)	0	0
+Down B (Thunder)	9	-27
+Grab	6	0
+Dash Grab	8	0
+Pivot Grab	9	0
+Pummel	1	0
 
 pikachu
-Jab	2	-12/-13
-Forward Tilt	6	-14/-15/-13
+Jab	2	-12
+Forward Tilt	6	-14
 Up Tilt	7	-13
 Down Tilt	7	-5
 Dash Attack	6	-12
 Forward Smash	15	-29
 Up Smash	10	-24
-Down Smash	8/11/14/17/20/23	-39
-Neutral Air	3/9/15/21	-7
-Forward Air	11/14/17/20/23/27	-10/-9
-Back Air	4/8/12/16/20/24	-12
-Up Air	4	-11/-11
+Down Smash	8	-39
+Neutral Air	3	-7
+Forward Air	11	-10
+Back Air	4	-12
+Up Air	4	-11
 Down Air	14	-16
 Neutral B (Thunderjolt)	19	-20
-Side B (Skull Bash)	18/18	-11 to -2
-Up B (Quick Attack)	15/30	-33
-Down B (Thunder)	13/34	-26
-Grab	7	--
-Dash Grab	11	--
-Pivot Grab	12	--
-Pummel	1	--
+Side B (Skull Bash)	18	-11
+Up B (Quick Attack)	15	-33
+Down B (Thunder)	13	-26
+Grab	7	0
+Dash Grab	11	0
+Pivot Grab	12	0
+Pummel	1	0
 
 piranha plant
 Jab 1	2	-14
 Jab 2	2	-15
 Jab 3	7	-13
-Rapid Jab	6/10/14...	**
+Rapid Jab	6	0
 Rapid Jab Finisher	7	-29
 Forward Tilt 1	7	-14
 Forward Tilt 2	5	-20
-Up Tilt	8	-14/-16
-Down Tilt	9	-13/-12
+Up Tilt	8	-14
+Down Tilt	9	-13
 Dash Attack	7	-28
-Forward Smash	16	-25/-22
-Up Smash	12/16	-27
-Down Smash	12/16	-24
-Neutral Air	8/11/14/17/18	-13/-13
-Forward Air	10	-9/-9
+Forward Smash	16	-25
+Up Smash	12	-27
+Down Smash	12	-24
+Neutral Air	8	-13
+Forward Air	10	-9
 Back Air	14	-11
 Up Air	7	-6
-Down Air	9	-14/-14
-Neutral B (Ptooie)	9	+7/?
-Side B (Poison Breath)	13(+10)	**
-Side B, Full Charge (Poison Breath, Full Charge)	23	**
-Up B (Piranhacopter)	13/16/22/28/34/ 40/46/52/58/64	**
-Down B (Long Stem Strike)	2(+18)	-31 to -17 (-10 more when tipped over)
-Footstool Attack	13	--
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	9	--
-Pummel	**	--
+Down Air	9	-14
+Neutral B (Ptooie)	9	7
+Side B (Poison Breath)	10	0
+Side B, Full Charge (Poison Breath, Full Charge)	10	0
+Up B (Piranhacopter)	13	0
+Down B (Long Stem Strike)	2	-31
+Footstool Attack	13	0
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	9	0
+Pummel	0	0
 
 Pit
 Jab 1	4	-18
 Jab 2	5	-21
 Jab 3	3	-23
-Rapid Jab	6/8/10...	--
+Rapid Jab	6	0
 Rapid Jab Finisher	4	-40
-Forward Tilt	10	-22/-19
-Up Tilt	6/15	-23/-13
+Forward Tilt	10	-22
+Up Tilt	6	-23
 Down Tilt	6	-13
 Dash Attack	7	-17
-Forward Smash	10/21	-26
-Up Smash	6/7/10/18	-27
-Down Smash	5/18	-27/-28/-14/-15
-Neutral Air	4/7/10/13/16/19/22/25	-12/-11
-Forward Air	11/14/18	-10/-9
-Back Air	10	-5/-4
-Up Air	12/15/18/21/24	-12/-11
+Forward Smash	10	-26
+Up Smash	6	-27
+Down Smash	5	-27
+Neutral Air	4	-12
+Forward Air	11	-10
+Back Air	10	-5
+Up Air	12	-12
 Down Air	10	-10
-Neutral B (Palutena's Bow)	16—76	-23 to -20
+Neutral B (Palutena's Bow)	16	-23
 Side B (Upperdash Arm)	18	-37
 Side B, Air (Upperdash Arm, Air)	21	-40
-Up B (Power of Flight)	--	--
-Down B (Guardian Orbitars)	7 (Start of Reflect)	--
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	1	--
+Up B (Power of Flight)	0	0
+Down B (Guardian Orbitars)	7	0
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	1	0
 
 Pokemon Trainer: Squirtle
 Jab 1	2	-11
@@ -1613,493 +1613,493 @@ Up Tilt	5	-8
 Down Tilt	8	-12
 Dash Attack	8	-16
 Forward Smash	20	-19
-Up Smash	19/21	-35
+Up Smash	19	-35
 Down Smash	18	-13
-Neutral Air	4	-4/-5
-Forward Air	5	-3/-3
-Back Air	5/7/9/11/13/15	-15
+Neutral Air	4	-4
+Forward Air	5	-3
+Back Air	5	-15
 Up Air	5	-3
-Down Air	6/9/12/15/18/22	-14/-13
-Neutral B (Watergun)	26	--
+Down Air	6	-14
+Neutral B (Watergun)	26	0
 Side B (Withdraw)	23	-18
-Up B (Waterfall)	9/14/19/24/29/34/39/43	--
-Down B (Pokemon Change)	--	--
-Grab	6	--
-Dash Grab	8	--
-Pivot Grab	9	--
-Pummel	1	--
+Up B (Waterfall)	9	0
+Down B (Pokemon Change)	0	0
+Grab	6	0
+Dash Grab	8	0
+Pivot Grab	9	0
+Pummel	1	0
 
 Pokemon Trainer: Ivysaur
 Jab 1	7	-17
 Jab 2	5	-19
-Rapid Jab	4/7/10...	--
+Rapid Jab	4	0
 Rapid Jab Finisher	4	-32
-Forward Tilt	10/12/14/16/18/20/22	-20
+Forward Tilt	10	-20
 Up Tilt	7	-18
 Down Tilt	4	-21
 Dash Attack	4	-27
 Forward Smash	15	-33
 Up Smash	26	-21
-Down Smash	13	-26/-25/-24
-Neutral Air	7/10/13/16/19/22/25/28	-14/-14
+Down Smash	13	-26
+Neutral Air	7	-14
 Forward Air	14	-8
-Back Air	7/13	-5/-4
+Back Air	7	-5
 Up Air	12	-6
 Down Air	11	-9
-Neutral B (Bullet Seed)	7/13/20/26/32/38...	-34
+Neutral B (Bullet Seed)	7	-34
 Side B (Razor Leaf)	22	-14
-Up B (Vinewhip)	15	-22/-20
-Down B (Pokemon Change)	--	--
-Grab	13	--
-Dash Grab	13	--
-Pivot Grab	13	--
-Pummel	1	--
+Up B (Vinewhip)	15	-22
+Down B (Pokemon Change)	0	0
+Grab	13	0
+Dash Grab	13	0
+Pivot Grab	13	0
+Pummel	1	0
 
 Pokemon Trainer: Charizard
 Jab 1	4	-14
 Jab 2	5	-16
 Jab 3	7	-20
-Forward Tilt	12	-18/-15
+Forward Tilt	12	-18
 Up Tilt	9	-16
 Down Tilt	9	-11
 Dash Attack	10	-12
-Forward Smash	22	-36/-37
-Up Smash	6/14	-24
+Forward Smash	22	-36
+Up Smash	6	-24
 Down Smash	14	-35
-Neutral Air	8	-6/-5
-Forward Air	8	-14/-14
-Back Air	14	-16/-15/-14
+Neutral Air	8	-6
+Forward Air	8	-14
+Back Air	14	-16
 Up Air	12	-8
-Down Air	18	-16/-17
-Neutral B (Flamethrower)	19/26/33/40	-24
-Side B (Flare Blitz)	23/24	-52/-66
-Up B (Fly)	9/16/19/22/25/27	--
-Down B (Pokemon Change)	--	--
-Grab	8	--
-Dash Grab	11	--
-Pivot Grab	12	--
-Pummel	2	--
+Down Air	18	-16
+Neutral B (Flamethrower)	19	-24
+Side B (Flare Blitz)	23	-52
+Up B (Fly)	9	0
+Down B (Pokemon Change)	0	0
+Grab	8	0
+Dash Grab	11	0
+Pivot Grab	12	0
+Pummel	2	0
 
 R.O.B.
 Jab 1	3	-13
 Jab 2	3	-13
 Forward Tilt	7	-18
-Up Tilt	4/6	-14
+Up Tilt	4	-14
 Down Tilt	3	-5
 Dash Attack	7	-17
-Forward Smash	16	-28/-30/-33
-Up Smash	10/14	-35/-24
-Down Smash	7/11/16	-25
-Neutral Air	14	-4/-3
+Forward Smash	16	-28
+Up Smash	10	-35
+Down Smash	7	-25
+Neutral Air	14	-4
 Forward Air	6	-6
-Back Air	19	-8/-9
-Up Air	7/9/13/17/23	-11/-10
-Down Air	20	-44/-45/-46
-Neutral B (Robo Beam)	25, 25	-44/-45/-46, -17/-16/-17
-Side B (Arm Rotor)	13/18/23/28/33/44	-37
-Side B (Arm Rotor, Mashing)	13/18/23/28/33/38/ 43/48/53/58/66	-37
-Up B (Robo Burner)	--	--
-Down B (Gyro)	3(+6), 9	-26 to -21, -21
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	1	--
+Back Air	19	-8
+Up Air	7	-11
+Down Air	20	-44
+Neutral B (Robo Beam)	25	-44
+Side B (Arm Rotor)	13	-37
+Side B (Arm Rotor, Mashing)	13	-37
+Up B (Robo Burner)	0	0
+Down B (Gyro)	3	-26
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	1	0
 
 richter
 Jab 1	5	-21
 Jab 2	3	-23
-Rapid Jab	9/12/15...	--
+Rapid Jab	9	0
 Rapid Jab Finisher	3	-37
-Whip Dangle	--	**
-Forward Tilt	12	-8/-7
+Whip Dangle	0	0
+Forward Tilt	12	-8
 Up Tilt	10	-17
 Down Tilt 1	7	-31
-Down Tilt 2	8	-42/-28
-Dash Attack	10/13/16/19/22/24	-26
-Forward Smash	24	-28/-26
-Up Smash	18	-27/-26
-Down Smash	14/20	Chain/Ball
-Neutral Air	8/11/14/17/20/23/26	-12/-11
-Forward Air	14	-6/-5/-8
-Back Air	14	-6/-5/-8
-Up Air	14	-6/-5/-8
-Down Air	13	-21/-23
+Down Tilt 2	8	-42
+Dash Attack	10	-26
+Forward Smash	24	-28
+Up Smash	18	-27
+Down Smash	14	0
+Neutral Air	8	-12
+Forward Air	14	-6
+Back Air	14	-6
+Up Air	14	-6
+Down Air	13	-21
 Neutral B (Axe)	30	-6
 Side B (Cross)	19	-15
-Up B (Uppercut)	6/9/12/15/18/21	**
-Down B (Holy Water)	18	**
-Holy Water Explosion	1/4/7/15/23/31/39/47/55	**
-Grab	10	--
-Dash Grab	13	--
-Pivot Grab	14	--
-Pummel	1	--
+Up B (Uppercut)	6	0
+Down B (Holy Water)	18	0
+Holy Water Explosion	1	0
+Grab	10	0
+Dash Grab	13	0
+Pivot Grab	14	0
+Pummel	1	0
 
 ridley
 Jab 1	4	-16
 Jab 2	5	-18
 Jab 3	4	-25
-Rapid Jab	4/7/10...	**
+Rapid Jab	4	0
 Rapid Jab Finisher	4	-38
-Forward Tilt	10	-12/-10
-Up Tilt	8	-14/-12
-Down Tilt	9	-15/-12
+Forward Tilt	10	-12
+Up Tilt	8	-14
+Down Tilt	9	-15
 Dash Attack	12	-16
 Forward Smash	18	-22
 Up Smash	12	-24
 Down Smash	24	-22
-Neutral Air	8	-8/-7/-9
-Forward Air	10/13/16	(-14/-13)/(-13/-13)
+Neutral Air	8	-8
+Forward Air	10	-14
 Back Air	10	-12
-Up Air	11	-9/-9
-Down Air	11	-27/-27
-Neutral B (Plasma Breath)	29 | 56/65/73/84/92	**
-Side B (Space Pirate Rush)	22	**
-Side B (Space Pirate Rush, Air)	22	**
-Side B (Space Pirate Rush, Success)	10/24/28/32...	**
-Space Pirate Rush, Manual/Ledge/Air Release	2/7/2	**
-Up B (Wing Blitz)	37	**
+Up Air	11	-9
+Down Air	11	-27
+Neutral B (Plasma Breath)	29	0
+Side B (Space Pirate Rush)	22	0
+Side B (Space Pirate Rush, Air)	22	0
+Side B (Space Pirate Rush, Success)	10	0
+Space Pirate Rush, Manual/Ledge/Air Release	2	0
+Up B (Wing Blitz)	37	0
 Down B (Skewer)	30	-29
-Grab	8	--
-Dash Grab	11	--
-Pivot Grab	12	--
-Pummel	**	--
+Grab	8	0
+Dash Grab	11	0
+Pivot Grab	12	0
+Pummel	0	0
 
 robin
 Jab 1	4	-24
 Jab 2	5	-26
 Jab 3	6	-23
-Rapid Jab	4/6/8...	--
+Rapid Jab	4	0
 Rapid Jab Finisher	5	-39
 Forward Tilt	9	-15
 Up Tilt	6	-15
 Down Tilt	7	-8
 Dash Attack	8	-23
-Forward Smash	16	-30/-34
-Up Smash	12	-33/-30/-33
-Down Smash	16	-28/-34
-Neutral Air	7/20	-6/-8
-Forward Air	12	-6/-8
-Back Air	9	-6/-8/-7
-Up Air	10	-6/-8/-7
-Down Air	13	-7/-7/-8/-8
-Neutral B (Thunder/Elthunder/Arcthunder)	8/8/8	-12/-13
-Arcthunder (Vortex)	1/5/9/13/16	+0
-Thoron	23/27/31/35/39/43/47	-20
-Side B (Arcfire)	17	+13
-Up B (Elwind)	8/28	--
-Down B (Nosferatu)	15	**
-Grab	7	--
-Dash Grab	10	--
-Pivot Grab	11	--
-Pummel	1	--
+Forward Smash	16	-30
+Up Smash	12	-33
+Down Smash	16	-28
+Neutral Air	7	-6
+Forward Air	12	-6
+Back Air	9	-6
+Up Air	10	-6
+Down Air	13	-7
+Neutral B (Thunder/Elthunder/Arcthunder)	8	-12
+Arcthunder (Vortex)	1	0
+Thoron	23	-20
+Side B (Arcfire)	17	13
+Up B (Elwind)	8	0
+Down B (Nosferatu)	15	0
+Grab	7	0
+Dash Grab	10	0
+Pivot Grab	11	0
+Pummel	1	0
 
 rosalina and luma
 Jab 1	5	-12
-Jab 1 (Luma)	4	**
+Jab 1 (Luma)	4	0
 Jab 2	6	-15
-Jab 2 (Luma)	6	**
+Jab 2 (Luma)	6	0
 Jab 3	7	-24
-Jab 3 (Luma)	7	**
-Rapid Jab	2/5/8/11...	--
-Rapid Jab (Luma)	3/6/9/12...	--
+Jab 3 (Luma)	7	0
+Rapid Jab	2	0
+Rapid Jab (Luma)	3	0
 Rapid Jab Finisher	5	-29
-Rapid Jab Finisher (Luma)	5	**
+Rapid Jab Finisher (Luma)	5	0
 Forward Tilt	7	-22
-Forward Tilt (Luma)	8	**
+Forward Tilt (Luma)	8	0
 Up Tilt	7	-23
-Up Tilt (Luma)	3	**
+Up Tilt (Luma)	3	0
 Down Tilt	5	-21
-Down Tilt (Luma)	8	**
-Dash Attack	6/17	-18
-Dash Attack (Luma)	6	**
+Down Tilt (Luma)	8	0
+Dash Attack	6	-18
+Dash Attack (Luma)	6	0
 Forward Smash	16	-26
-Forward Smash (Luma)	17	**
+Forward Smash (Luma)	17	0
 Up Smash	8	-31
-Up Smash (Luma)	10	**
-Down Smash	6/17	-29/-17
-Down Smash (Luma)	7/19	**
-Neutral Air	9	-4/-5
-Neutral Air (Luma)	7/13	**
-Forward Air	10/13/16/19/22	-14/-13
-Forward Air (Luma)	11	**
+Up Smash (Luma)	10	0
+Down Smash	6	-29
+Down Smash (Luma)	7	0
+Neutral Air	9	-4
+Neutral Air (Luma)	7	0
+Forward Air	10	-14
+Forward Air (Luma)	11	0
 Back Air	9	-4
-Back Air (Luma)	10	**
-Up Air	8	-7/-8/-9
-Up Air (Luma)	6	**
-Down Air	17	-7/-8/-9
-Down Air (Luma)	15	**
-Neutral B (Luma Shot)	10—91	-15 to -9
-Luma Recall	--	--
-Side B (Star Bits)	10/16/22	-22
-Up B (Launch Star)	--	--
-Down B (Gravitational Pull)	--	--
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	1	--
+Back Air (Luma)	10	0
+Up Air	8	-7
+Up Air (Luma)	6	0
+Down Air	17	-7
+Down Air (Luma)	15	0
+Neutral B (Luma Shot)	10	-15
+Luma Recall	0	0
+Side B (Star Bits)	10	-22
+Up B (Launch Star)	0	0
+Down B (Gravitational Pull)	0	0
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	1	0
 
 roy
-Jab	5	-9/-12
-Forward Tilt	8	-13/-16/-17
-Up Tilt	6	-21/-25
-Down Tilt	7	-4/-7
-Dash Attack	13	-17/-21
-Forward Smash	13	-27/-29/-32
-Up Smash	12/15/17/19/22	-29
-Down Smash	6/21	-46/-49/-30/-33
-Neutral Air	6/15	-6/-6/-5/-6
-Forward Air	10	-4/-5
-Back Air	8	-5/-6
-Up Air	5	-4/-5
-Down Air	16	-9/-10
-Neutral B (Flare Blade)	21-260	-15 to Shieldbreak
-Side B, Hit 1 (Double Edged Dance, Hit 1)	9	-26/-16(air)
-Double Edged Dance, Hit 2 Neutral	5	-29/-30
-Double Edged Dance, Hit 3 Neutral	4	-34/-35
-Double Edged Dance, Hit 4 Neutral	7	-45/-46
-Double Edged Dance, Hit 2 Up	4	-34/-35
-Double Edged Dance, Hit 3 Up	5	-33/-34
-Double Edged Dance, Hit 4 Up	6	-31/-32
-Double Edged Dance, Hit 3 Down	5	-34/-35
-Double Edged Dance, Hit 4 Down	7/10/13/16/19	-46
-Up B (Blazer)	9/11/14/17/20	**
-Down B (Counter)	8 (Start of Counter)	--
-Counter, Attack	4	--
-Grab	7	--
-Dash Grab	10	--
-Pivot Grab	11	--
-Pummel	1	--
+Jab	5	-9
+Forward Tilt	8	-13
+Up Tilt	6	-21
+Down Tilt	7	-4
+Dash Attack	13	-17
+Forward Smash	13	-27
+Up Smash	12	-29
+Down Smash	6	-46
+Neutral Air	6	-6
+Forward Air	10	-4
+Back Air	8	-5
+Up Air	5	-4
+Down Air	16	-9
+Neutral B (Flare Blade)	21	0
+Side B, Hit 1 (Double Edged Dance, Hit 1)	9	-26
+Double Edged Dance, Hit 2 Neutral	5	-29
+Double Edged Dance, Hit 3 Neutral	4	-34
+Double Edged Dance, Hit 4 Neutral	7	-45
+Double Edged Dance, Hit 2 Up	4	-34
+Double Edged Dance, Hit 3 Up	5	-33
+Double Edged Dance, Hit 4 Up	6	-31
+Double Edged Dance, Hit 3 Down	5	-34
+Double Edged Dance, Hit 4 Down	7	-46
+Up B (Blazer)	9	0
+Down B (Counter)	8	0
+Counter, Attack	4	0
+Grab	7	0
+Dash Grab	10	0
+Pivot Grab	11	0
+Pummel	1	0
 
 ryu
 Jab 1 (Light)	2	-10
-Jab (Heavy, Close)	7	**
+Jab (Heavy, Close)	7	0
 Jab (Heavy, Far)	9	-13
 Jab 2	3	-21
 Jab 3	8	-21
 Forward Tilt (Light, Close)	3	-20
 Forward Tilt (Light, Far)	8	-8
-Forward Tilt (Heavy)	16/18	-13
+Forward Tilt (Heavy)	16	-13
 Up Tilt (Light)	3	-8
 Up Tilt (Heavy)	7	-19
 Down Tilt (Light)	2	-9
 Down Tilt (Heavy)	6	-14
 Dash Attack	7	-22
-Forward Smash	15	-19/-18
+Forward Smash	15	-19
 Up Smash	9	-24
 Down Smash	5	-25
-Neutral Air	4	-1/-2
-Forward Air	8	-7/-6, -7/-6
-Back Air	8	-4/-5
-Up Air	6/9	-8/-8
+Neutral Air	4	-1
+Forward Air	8	-7
+Back Air	8	-4
+Up Air	6	-8
 Down Air	8	-10
-Neutral B (Hadouken)	12	-32, -31 to -30
+Neutral B (Hadouken)	12	-32
 Shakunetsu Hadouken	12	-17
-Side B (Tatsumaki Senpukyaku)	8	-41 to -72, -41 to -70
-Side B, Air (Tatsumaki Senpukyaku, Air)	8	-62 to -61, -61 to -60
-Up B (Shoryuken)	6	**
-True Shoryuken	6	**
-Down B (Focus Attack)	11 (+21), 11(+31), 11(+59)	-33, -34, unblockable
-Focus Attack, Dash Cancel	--	-8/-9
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	1	--
+Side B (Tatsumaki Senpukyaku)	8	-41
+Side B, Air (Tatsumaki Senpukyaku, Air)	8	-62
+Up B (Shoryuken)	6	0
+True Shoryuken	6	0
+Down B (Focus Attack)	11	-33
+Focus Attack, Dash Cancel	0	-8
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	1	0
 
 Samus
 Jab 1	3	-10
 Jab 2	6	-15
-Forward Tilt	8	-17/-16/-15
+Forward Tilt	8	-17
 Up Tilt	15	-12
 Down Tilt	6	-27
 Dash Attack	8	-26
-Forward Smash	10	-30/-28
-Up Smash	11/15/19/23/27	-24
-Down Smash	9/17	-28/-19
-Neutral Air	8/14	-5/-5
-Forward Air	6/12/18/24/30	-12/-12/-11
-Back Air	9	-9/-10
-Up Air	5/7/10/13/16	-16/-16/-15
-Down Air	17	-8/-7
-Z Air	8/16	-5
-Neutral B (Charge Shot)	3(+13)	-16 to +4
+Forward Smash	10	-30
+Up Smash	11	-24
+Down Smash	9	-28
+Neutral Air	8	-5
+Forward Air	6	-12
+Back Air	9	-9
+Up Air	5	-16
+Down Air	17	-8
+Z Air	8	-5
+Neutral B (Charge Shot)	3	-16
 Charge Shot, Full Charge	16	-2
 Side B (Homing Missle)	18	-26
 Side B (Super Missle)	21	-24
-Up B (Screw Attack)	4/7/10/12/15/18/21/24/25/27	--
-Up B, Air (Screw Attack, Air)	5/7/9/11/13/15/17/19/21/23/25/27	--
-Down B (Bomb)	33—80	--
-Grab	15	--
-Dash Grab	17	--
-Pivot Grab	18	--
-Pummel	1	--
+Up B (Screw Attack)	4	0
+Up B, Air (Screw Attack, Air)	5	0
+Down B (Bomb)	33	0
+Grab	15	0
+Dash Grab	17	0
+Pivot Grab	18	0
+Pummel	1	0
 
 sheik
 Jab 1	2	-12
 Jab 2	3	-11
-Rapid Jab	5/4/9...	--
+Rapid Jab	5	0
 Rapid Jab Finisher	5	-27
 Forward Tilt	5	-15
-Up Tilt	5/16	-11
+Up Tilt	5	-11
 Down Tilt	5	-16
 Dash Attack	5	-19
-Forward Smash	12/20	-18
-Up Smash	11/14	-30
-Down Smash	11/18	-28
-Neutral Air	3	-3/-3
-Forward Air	5	-2/-2
-Back Air	4	-4/-4
-Up Air	4/8/12/23	-11/-10
+Forward Smash	12	-18
+Up Smash	11	-30
+Down Smash	11	-28
+Neutral Air	3	-3
+Forward Air	5	-2
+Back Air	4	-4
+Up Air	4	-11
 Down Air	15	-18
-Neutral B (Needle Storm)	4/7/10/13/16 (+7)	-18
-Needle Storm, Full Charge	11/14/17/20/23/26	-15
-Side B (Burst Grenade)	13/67/70/73/76/79/82/88	+28
-Up B (Vanish)	36/55	-33
-Down B (Bouncing Fish)	18/26	-39
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	11	--
-Pummel	1	--
+Neutral B (Needle Storm)	4	-18
+Needle Storm, Full Charge	11	-15
+Side B (Burst Grenade)	13	28
+Up B (Vanish)	36	-33
+Down B (Bouncing Fish)	18	-39
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	11	0
+Pummel	1	0
 
 shulk
 Jab 1	5	-17
 Jab 2	5	-25
 Jab 3	6	-32
-Forward Tilt	12	-19/-20
-Up Tilt	11	-18/-19
-Down Tilt	10	-12/-13
-Dash Attack	12	-16/-18
-Forward Smash	14/23	-35/-36
-Up Smash	18/30	-28
-Down Smash	18/23/28/35/41	-/-56/-51/-52/-47/-48/-41/-42/-36/-37
-Neutral Air	13	-2/-3
-Forward Air	14	-6/-7
-Back Air	19	-6/-7
-Up Air	14/24	-6/-5/-5
-Down Air	14/23	-11/-9/-10
-Neutral B (Monado Arts)	--	--
-Side B (Back Slash)	22	-29/-30/-25/-27
-Up B (Air Slash)	10	**
-Air Slash 2	9	**
-Down B (Vision)	7 (Start of Counter)	--
-Grab	7	--
-Dash Grab	10	--
-Pivot Grab	11	--
-Pummel	1	--
+Forward Tilt	12	-19
+Up Tilt	11	-18
+Down Tilt	10	-12
+Dash Attack	12	-16
+Forward Smash	14	-35
+Up Smash	18	-28
+Down Smash	18	-37
+Neutral Air	13	-2
+Forward Air	14	-6
+Back Air	19	-6
+Up Air	14	-6
+Down Air	14	-11
+Neutral B (Monado Arts)	0	0
+Side B (Back Slash)	22	-29
+Up B (Air Slash)	10	0
+Air Slash 2	9	0
+Down B (Vision)	7	0
+Grab	7	0
+Dash Grab	10	0
+Pivot Grab	11	0
+Pummel	1	0
 
 simon
 Jab 1	5	-21
 Jab 2	3	-23
-Rapid Jab	9/12/15...	--
+Rapid Jab	9	0
 Rapid Jab Finisher	3	-37
-Whip Dangle	--	**
-Forward Tilt	12	-8/-7
+Whip Dangle	0	0
+Forward Tilt	12	-8
 Up Tilt	10	-17
 Down Tilt 1	7	-31
-Down Tilt 2	8	-42/-28
-Dash Attack	10/13/16/19/22/24	-26
-Forward Smash	24	-28/-26
-Up Smash	18	-27/-26
-Down Smash	14/20	Chain/Ball
-Neutral Air	8/11/14/17/20/23/26	-12/-11
-Forward Air	14	-6/-5/-8
-Back Air	14	-6/-5/-8
-Up Air	14	-6/-5/-8
-Down Air	13	-21/-23
+Down Tilt 2	8	-42
+Dash Attack	10	-26
+Forward Smash	24	-28
+Up Smash	18	-27
+Down Smash	14	0
+Neutral Air	8	-12
+Forward Air	14	-6
+Back Air	14	-6
+Up Air	14	-6
+Down Air	13	-21
 Neutral B (Axe)	30	-6
 Side B (Cross)	19	-15
-Up B (Uppercut)	6/9/12/15/18/21	**
-Down B (Holy Water)	18	**
-Holy Water Explosion	1/4/7/15/23/31/39/47/55	**
-Grab	10	--
-Dash Grab	13	--
-Pivot Grab	14	--
-Pummel	1	--
+Up B (Uppercut)	6	0
+Down B (Holy Water)	18	0
+Holy Water Explosion	1	0
+Grab	10	0
+Dash Grab	13	0
+Pivot Grab	14	0
+Pummel	1	0
 
 snake
 Jab 1	3	-8
 Jab 2	4	-16
 Jab 3	8	-32
 Forward Tilt 1	4	-22
-Forward Tilt 2	8	-22/-22/-21
-Up Tilt	6	-18/**
+Forward Tilt 2	8	-22
+Up Tilt	6	0
 Down Tilt	6	-13
-Dash Attack	5	-26/**
+Dash Attack	5	0
 Forward Smash	41	-18
-Up Smash	11/35	-39/+1
-Down Smash	8/20	-28/-14
-Neutral Air	10/18/26/36	-14/-11
-Forward Air	23	-14/-14
-Back Air	7	-13/-14/-15/-15
-Up Air	10	-10/-11
-Down Air	3/10/17/25	-17/-18/-16
-Neutral B (Grenade)	1 (Grenade Pull)	--
-Grenade (Neutral Throw, Smash Throw, Underhand Throw)	8, 10, 9	**
-Side B (Nikita)	41	-19/-14
-Up B (Cypher)	--	--
-Down B (C4)	9	--
-C4 Detonate/Explosion	25	+20 / +11
-Grab	8	--
-Dash Grab	11	--
-Pivot Grab	9	--
-Pummel	1	--
+Up Smash	11	-39
+Down Smash	8	-28
+Neutral Air	10	-14
+Forward Air	23	-14
+Back Air	7	-13
+Up Air	10	-10
+Down Air	3	-17
+Neutral B (Grenade)	1	0
+Grenade (Neutral Throw, Smash Throw, Underhand Throw)	8	0
+Side B (Nikita)	41	-19
+Up B (Cypher)	0	0
+Down B (C4)	9	0
+C4 Detonate/Explosion	25	20
+Grab	8	0
+Dash Grab	11	0
+Pivot Grab	9	0
+Pummel	1	0
 
 sonic
 Jab 1	3	-13
 Jab 2	2	-16
 Jab 3	4	-26
-Forward Tilt	6/8	-20
-Up Tilt	6(7)/13	-20
+Forward Tilt	6	-20
+Up Tilt	6	-20
 Down Tilt	6	-15
 Dash Attack	5	-38
 Forward Smash	18	-19
-Up Smash	18/21/23/25/27/29/31/33	-29
+Up Smash	18	-29
 Down Smash	12	-34
-Neutral Air	6	-5/-6/-7
-Forward Air	5/7/9/11/13/15	-14/-14
-Back Air	13	-10/-11
-Up Air	5/14	-11/-9
-Down Air	17	-17/-18
-Neutral B (Homing Attack)	17—82	-22 to -16
-Side B (Spin Dash)	17/29	-22 to -18
+Neutral Air	6	-5
+Forward Air	5	-14
+Back Air	13	-10
+Up Air	5	-11
+Down Air	17	-17
+Neutral B (Homing Attack)	17	-22
+Side B (Spin Dash)	17	-22
 Up B (Spring Jump)	4	-7
-Down B (Spin Charge)	15/17/19/21	-33
+Down B (Spin Charge)	15	-33
 Spin Dash/Spin Charge, Jump	3	-1
-Grab	7	--
-Dash Grab	10	--
-Pivot Grab	11	--
-Pummel	1	--
+Grab	7	0
+Dash Grab	10	0
+Pivot Grab	11	0
+Pummel	1	0
 
 terry
 Jab 1	3	-6
-Jab 2	3/4	-19/-17
+Jab 2	3	-19
 Jab 3	7	-19
 Forward Tilt	8	-7
 Up Tilt	7	-12
 Down Tilt	6	-6
-Dash Attack	10	-18/-15
+Dash Attack	10	-18
 Forward Smash	18	-20
-Up Smash	10	-20 / -18
+Up Smash	10	-20
 Down Smash	8	-23
 Neutral Air	4	-4
-Forward Air	7	-7/-8
-Back Air	11	-5/-6
+Forward Air	7	-7
+Back Air	11	-5
 Up Air	7	-3
 Down Air	12	-10
-Neutral B (Power Wave, Ground)	18 (21)	-22 (-21)
-Power Wave, Air	18 (18)	**
-Forward B (Burning Knuckle)	15/19 (21/26) | 14—17(18—26)	-28 (-34)
-Burning Knuckle, Input	15/21 (21/28) | 14/19 (18/23)	-26 (-32)
-Back B (Crack Shoot)	13/21	-12
-Up B (Rising Tackle)	10/12/15/20/25	**
-Rising Tackle (Charged Input)	10/12/14/16/19/21/24/29/34	**
-Down B (Power Dunk)	Weak: 6/9/29 | Strong: 6/9/35	-19
+Neutral B (Power Wave, Ground)	18	-22
+Power Wave, Air	18	0
+Forward B (Burning Knuckle)	15	-28
+Burning Knuckle, Input	15	-26
+Back B (Crack Shoot)	13	-12
+Up B (Rising Tackle)	10	0
+Rising Tackle (Charged Input)	10	0
+Down B (Power Dunk)	6	-19
 Power Geyser	20	-29
 Buster Wolf	14	-45
 Grab	6	-17
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	1	--
-Forward Throw	21	--
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	1	0
+Forward Throw	21	0
 
 toon link
 Jab 1	5	-10
@@ -2111,51 +2111,51 @@ Down Tilt	9	-6
 Dash Attack	7	-15
 Forward Smash	16	-22
 Up Smash	11	-22
-Down Smash	9/17	-29/-20
-Neutral Air	6/13	-3/-4
+Down Smash	9	-29
+Neutral Air	6	-3
 Forward Air	14	-6
 Back Air	7	-4
-Up Air	11	-8/-9
-Down Air	17	-17/-16
+Up Air	11	-8
+Down Air	17	-17
 Z Air	11	-3
-Neutral B (Hero's Bow)	18—60	-12 to -6
-Side B (Boomerang)	27	-9 to -6
-Up B (Spin Attack)	6/10/14/18/22/27/31/36/41/48	-25
-Up B, Air (Spin Attack, Air)	8/16/22/31/44	--
-Down B (Bomb Pull)	--	--
-Grab	12	--
-Dash Grab	14	--
-Pivot Grab	15	--
-Pummel	1	--
+Neutral B (Hero's Bow)	18	-12
+Side B (Boomerang)	27	-9
+Up B (Spin Attack)	6	-25
+Up B, Air (Spin Attack, Air)	8	0
+Down B (Bomb Pull)	0	0
+Grab	12	0
+Dash Grab	14	0
+Pivot Grab	15	0
+Pummel	1	0
 
 villager
 Jab 1	3	-16
 Jab 2	3	-18
-Rapid Jab	3/8/12...	--
+Rapid Jab	3	0
 Rapid Jab Finisher	7	-28
 Forward Tilt	8	-16
-Up Tilt	7/22	-34/-19
-Down Tilt	9	-17/-18
+Up Tilt	7	-34
+Down Tilt	9	-17
 Dash Attack	9	-22
 Forward Smash	25	-4
-Up Smash	12/17/21/25/29/33	-8
-Down Smash	9/29	-35/-15
-Neutral Air	3	-4/-5
+Up Smash	12	-8
+Down Smash	9	-35
+Neutral Air	3	-4
 Forward Air	10	-4
 Back Air	13	-3
-Up Air	6	-7/-8/-8
-Down Air	14	-7/-8/-8
-Neutral B (Pocket)	8 (Start of projectile pocket)	**
-Pocket, Throw	9	**
-Side B (Lloid Rocket)	52	+27
-Up B (Balloon Trip)	**	--
-Down B (Timber Plant, Timber Water)	--, 5	--
-Timber Tree Grow/Fall	46/16	+14 / -11
-Timber Axe	6	-28/-35
-Grab	14	--
-Dash Grab	16	--
-Pivot Grab	17	--
-Pummel	3	--
+Up Air	6	-7
+Down Air	14	-7
+Neutral B (Pocket)	8	0
+Pocket, Throw	9	0
+Side B (Lloid Rocket)	52	27
+Up B (Balloon Trip)	0	0
+Down B (Timber Plant, Timber Water)	0	0
+Timber Tree Grow/Fall	46	14
+Timber Axe	6	-28
+Grab	14	0
+Dash Grab	16	0
+Pivot Grab	17	0
+Pummel	3	0
 
 wario
 Jab	8	-16
@@ -2165,23 +2165,23 @@ Up Tilt	8	-13
 Down Tilt	5	-7
 Dash Attack	5	-33
 Forward Smash	18	-34
-Up Smash	11	-35/-37
+Up Smash	11	-35
 Down Smash	8	-44
-Neutral Air	4/20	-4/-4
-Forward Air	5	-7/-7
+Neutral Air	4	-4
+Forward Air	5	-7
 Back Air	9	-11
 Up Air	8	-2
-Down Air	9/11/13/15/17/19/21	-16/-15
-Neutral B (Chomp)	8 (11 Grab Release)	--
-Side B (Wario Bike)	20/24	**
-Wario Bike, Wheelie	4/54	-60/-10
+Down Air	9	-16
+Neutral B (Chomp)	8	0
+Side B (Wario Bike)	20	0
+Wario Bike, Wheelie	4	-60
 Wario Bike, Turnaround	6	-40
-Up B (Corkscrew)	6/8/12/16/20/29	**
-Down B (Wario Waft)	16, 10, 5, 9	--, -41, -24, -28
-Grab	8	--
-Dash Grab	11	--
-Pivot Grab	12	--
-Pummel	2	--
+Up B (Corkscrew)	6	0
+Down B (Wario Waft)	16	0
+Grab	8	0
+Dash Grab	11	0
+Pivot Grab	12	0
+Pummel	2	0
 
 wii fit trainer
 Jab 1	4	-18
@@ -2192,151 +2192,151 @@ Up Tilt	5	-14
 Down Tilt	9	-17
 Dash Attack	6	-20
 Forward Smash	16	-30
-Up Smash	14	-33/-31
+Up Smash	14	-33
 Down Smash	18	-25
-Neutral Air	9/12	-5/-4
-Forward Air	9	-4/-6/-5/-6
-Back Air	5	-7/-8/-9
+Neutral Air	9	-5
+Forward Air	9	-4
+Back Air	5	-7
 Up Air	6	-5
 Down Air	15	-7
-Neutral B (Sun Salutation)	4(+17)	-26 to -16
+Neutral B (Sun Salutation)	4	-26
 Sun Salutation, Full Charge	21	-16
-Side B (Header)	15—31	-11/-13
-Up B (Super Hoop)	6/23/40	**
-Down B (Deep Breathing)	39	--
-Grab	6	--
-Dash Grab	9	--
-Pivot Grab	10	--
-Pummel	1	--
+Side B (Header)	15	-11
+Up B (Super Hoop)	6	0
+Down B (Deep Breathing)	39	0
+Grab	6	0
+Dash Grab	9	0
+Pivot Grab	10	0
+Pummel	1	0
 
 wolf
 Jab 1	4	-14
 Jab 2	4	-17
 Jab 3	4	-25
-Forward Tilt	8/9	-19
+Forward Tilt	8	-19
 Up Tilt	7	-18
 Down Tilt	5	-16
 Dash Attack	11	-16
 Forward Smash	20	-10
-Up Smash	13/20	-29/-19
-Down Smash	14/21	-19/-18/-14/-12
-Neutral Air	7	-4/-5
+Up Smash	13	-29
+Down Smash	14	-19
+Neutral Air	7	-4
 Forward Air	7	-6
-Back Air	13	-10/-11
+Back Air	13	-10
 Up Air	7	-5
-Down Air	16	-14/-14
-Neutral B (Blaster)	15/16	-24
-Side B (Wolf Flash)	18	**
-Up B (Fire Wolf)	18/27/29/31/36	-24
+Down Air	16	-14
+Neutral B (Blaster)	15	-24
+Side B (Wolf Flash)	18	0
+Up B (Fire Wolf)	18	-24
 Down B (Reflector)	6	-19
-Grab	6	--
-Dash Grab	8	--
-Pivot Grab	9	--
-Pummel	1	--
+Grab	6	0
+Dash Grab	8	0
+Pivot Grab	9	0
+Pummel	1	0
 
 yoshi
 Jab 1	3	-10
 Jab 2	3	-11
 Forward Tilt	5	-16
 Up Tilt	8	-16
-Down Tilt	8	-9/-9/-10
+Down Tilt	8	-9
 Dash Attack	10	-20
 Forward Smash	14	-28
 Up Smash	11	-24
-Down Smash	7/22	-34/-19
-Neutral Air	3	-3/-4/-4
-Forward Air	16	-7/-7
-Back Air	11/14/18	-9/-8
+Down Smash	7	-34
+Neutral Air	3	-3
+Forward Air	16	-7
+Back Air	11	-9
 Up Air	5	-3
-Down Air	16/18/20/22/24/26/ 28/30/32/34/36/38/41	-14
-Neutral B (Egg Lay)	19	--
-Side B (Egg Roll)	32	-29 to -27
+Down Air	16	-14
+Neutral B (Egg Lay)	19	0
+Side B (Egg Roll)	32	-29
 Up B (Egg Throw)	16	-30
-Down B (Yoshi Bomb, Yoshi Bomb Air)	7/27, 19	-32, -32
-Grab	14	--
-Dash Grab	16	--
-Pivot Grab	17	--
-Pummel	1	--
+Down B (Yoshi Bomb, Yoshi Bomb Air)	7	-32
+Grab	14	0
+Dash Grab	16	0
+Pivot Grab	17	0
+Pummel	1	0
 
 young link
 Jab 1	6	-10
 Jab 2	6	-7
 Jab 3	6	-25
-Rapid Jab	3/5/7	--
+Rapid Jab	3	0
 Rapid Jab Finisher	4	-37
-Forward Tilt	10	-12/-13
+Forward Tilt	10	-12
 Up Tilt	9	-14
-Down Tilt	8	-7/-8/-10
+Down Tilt	8	-7
 Dash Attack	8	-16
 Forward Smash 1	15	-27
 Forward Smash 2	11	-30
-Up Smash	10/25/41	-22
-Down Smash	9/21	-31/-33/-20/-21
-Neutral Air	4	-2/-3
-Forward Air	14/24	-3/-2
-Back Air	6/18	-3/-3
+Up Smash	10	-22
+Down Smash	9	-31
+Neutral Air	4	-2
+Forward Air	14	-3
+Back Air	6	-3
 Up Air	5	-9
-Down Air	13	**
+Down Air	13	0
 Z Air	11	-3
-Neutral B (Fire Arrow)	14—47	-16 to -10
-Side B (Boomerang)	27	-8 to -4
-Up B (Spin Attack)	9/13/17/21/25/29/33/37/41/45/49	-17
-Up B, Air (Spin Attack, Air)	8/12/16/19/22/26/31/39/47	--
-Down B (Bomb Pull)	--	--
-Grab	12	--
-Dash Grab	14	--
-Pivot Grab	15	--
-Pummel	1	--
+Neutral B (Fire Arrow)	14	-16
+Side B (Boomerang)	27	-8
+Up B (Spin Attack)	9	-17
+Up B, Air (Spin Attack, Air)	8	0
+Down B (Bomb Pull)	0	0
+Grab	12	0
+Dash Grab	14	0
+Pivot Grab	15	0
+Pummel	1	0
 
 zelda
-Jab	4/7	-13
-Rapid Jab	3/5/7	--
+Jab	4	-13
+Rapid Jab	3	0
 Rapid Jab Finisher	6	-32
-Forward Tilt	12	-14/-13
+Forward Tilt	12	-14
 Up Tilt	7	-15
 Down Tilt	5	-10
 Dash Attack	6	-18
-Forward Smash	16/18/20/22/24	-16
-Up Smash	9/13/17/21/25/29/34	-25
-Down Smash	5/13	-24/-17
-Neutral Air	6/10/14/18/22	-13/-12
-Forward Air	6	-8/-12
-Back Air	6	-8/-12
+Forward Smash	16	-16
+Up Smash	9	-25
+Down Smash	5	-24
+Neutral Air	6	-13
+Forward Air	6	-8
+Back Air	6	-8
 Up Air	14	-6
-Down Air	14	-6/-9
-Neutral B (Nayru's Love)	11/15/19/26	-25
-Side B (Din's Fire)	44—70	-18 to -10
-Up B (Farore's Wind)	6/35	-19
-Down B (Phantom Slash)	26/32/38/46/59-127	-19 to -17
-Grab	10	--
-Dash Grab	13	--
-Pivot Grab	14	--
-Pummel	2	--
+Down Air	14	-6
+Neutral B (Nayru's Love)	11	-25
+Side B (Din's Fire)	44	-18
+Up B (Farore's Wind)	6	-19
+Down B (Phantom Slash)	26	-19
+Grab	10	0
+Dash Grab	13	0
+Pivot Grab	14	0
+Pummel	2	0
 
 zero suit samus
 Jab 1	1	-19
 Jab 2	2	-20
 Jab 3	3	-27
-Forward Tilt	6	-15/-14
-Up Tilt	3/9	-36/-29
+Forward Tilt	6	-15
+Up Tilt	3	-36
 Down Tilt	8	-13
 Dash Attack	7	-36
-Forward Smash	13/26	-30
-Up Smash	10/14/17/20/23/26/28	-17
-Down Smash	20	-15/-16
+Forward Smash	13	-30
+Up Smash	10	-17
+Down Smash	20	-15
 Neutral Air	10	-2
-Forward Air	6/13	-7/-7
-Back Air	8	-6/-5
+Forward Air	6	-7
+Back Air	8	-6
 Up Air	6	-2
 Down Air	14	-17
 Z Air	9	-2
-Neutral B (Paralyzer)	21—43	-20 to -18
-Side B (Plasma Whip)	22/24/26/28/31	-15
-Up B (Boost Kick)	4/10/14/18/22/26/32	--
-Down B (Flip Jump)	--	**
+Neutral B (Paralyzer)	21	-20
+Side B (Plasma Whip)	22	-15
+Up B (Boost Kick)	4	0
+Down B (Flip Jump)	0	0
 Flip Jump, Kick	9	-36
-Grab	15	--
-Dash Grab	17	--
-Pivot Grab	18	--
-Pummel	1	--
+Grab	15	0
+Dash Grab	17	0
+Pivot Grab	18	0
+Pummel	1	0
 
