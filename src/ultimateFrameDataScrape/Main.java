@@ -77,12 +77,12 @@ public class Main {
 					split = startupText.split(" ");
 					startupText = split[0];
 				}
-				if(startupText.contains("--")) {		// If "--"
-					startupText = "0";
-				}
 				if(startupText.contains("—")) {			// If "—"
 					split = startupText.split("—");
 					startupText = split[0];
+				}
+				if(startupText.contains("--")) {		// If "--"
+					startupText = "0";
 				}
 				if(startupText.contains("-")) {			// If "-"
 					split = startupText.split("-");
@@ -108,9 +108,6 @@ public class Main {
 					split = startupText.split(",");
 					startupText = split[0];
 				}
-				if(startupText.contains("**")) {		// If "**"
-					startupText = "0";
-				}
 				if(startupText.contains("Weak: ")) {		// If "Weak: "
 					startupText = startupText.substring(6, startupText.length());
 				}
@@ -120,6 +117,9 @@ public class Main {
 				}
 				if(startupText.charAt(0) == '~') {
 					startupText = startupText.substring(1, startupText.length());
+				}
+				if(startupText.contains("**")) {		// If "**"
+					startupText = "0";
 				}
 
 				moveStartupTemp.add(Integer.parseInt(startupText));
@@ -135,12 +135,6 @@ public class Main {
 					advText = "0";
 				}
 				if(advText.contains("Chain")) {		// If "Chain"
-					advText = "0";
-				}
-				if(advText.contains("--")) {		// If "--"
-					advText = "0";
-				}
-				if(advText.contains("**")) {		// If "**"
 					advText = "0";
 				}
 				if(advText.contains(" to ")) {
@@ -199,6 +193,12 @@ public class Main {
 				}
 				if(charList.get(i).equals("snake") && moveNameTemp.get(j).equals("C4 Detonate/Explosion")) {
 					advText = "20";
+				}
+				if(advText.contains("--")) {		// If "--"
+					advText = "0";
+				}
+				if(advText.contains("**")) {		// If "**"
+					advText = "0";
 				}
 				
 				moveAdvTemp.add(Integer.parseInt(advText));

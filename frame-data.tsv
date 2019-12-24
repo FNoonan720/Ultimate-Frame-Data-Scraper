@@ -765,7 +765,7 @@ Down Tilt	8	-22
 Dash Attack	6	0
 Forward Smash	16	-21
 Up Smash	10	-32
-Down Smash	12	0
+Down Smash	12	-24
 Neutral Air	12	-5
 Forward Air	7	-10
 Back Air	7	-5
@@ -872,7 +872,7 @@ Forward Tilt	12	-20
 Up Tilt	5	-21
 Down Tilt	13	-17
 Dash Attack	7	-38
-Forward Smash	19	0
+Forward Smash	19	-29
 Up Smash	6	-55
 Down Smash	22	-29
 Neutral Air	7	-4
@@ -930,7 +930,7 @@ Forward Tilt	15	-12
 Up Tilt	8	-17
 Down Tilt	10	-11
 Dash Attack	20	-21
-Forward Smash 1	17	0
+Forward Smash 1	17	-27
 Forward Smash 2	10	-41
 Up Smash	10	-28
 Down Smash	12	-33
@@ -1547,7 +1547,7 @@ Pivot Grab	12	0
 Pummel	1	0
 
 piranha plant
-Jab 1	2	-14
+Jab 1	2	-13
 Jab 2	2	-15
 Jab 3	7	-13
 Rapid Jab	6	0
@@ -1555,7 +1555,7 @@ Rapid Jab Finisher	7	-29
 Forward Tilt 1	7	-14
 Forward Tilt 2	5	-20
 Up Tilt	8	-14
-Down Tilt	9	-13
+Down Tilt	9	-12
 Dash Attack	7	-28
 Forward Smash	16	-25
 Up Smash	12	-27
@@ -1565,7 +1565,7 @@ Forward Air	10	-9
 Back Air	14	-11
 Up Air	7	-6
 Down Air	9	-14
-Neutral B (Ptooie)	9	7
+Neutral B (Ptooie)	9	6
 Side B (Poison Breath)	10	0
 Side B, Full Charge (Poison Breath, Full Charge)	10	0
 Up B (Piranhacopter)	13	0
@@ -2021,9 +2021,9 @@ Jab 2	4	-16
 Jab 3	8	-32
 Forward Tilt 1	4	-22
 Forward Tilt 2	8	-22
-Up Tilt	6	0
+Up Tilt	6	-18
 Down Tilt	6	-13
-Dash Attack	5	0
+Dash Attack	5	-26
 Forward Smash	41	-18
 Up Smash	11	-39
 Down Smash	8	-28
@@ -2290,7 +2290,7 @@ Pummel	1	0
 
 zelda
 Jab	4	-13
-Rapid Jab	3	0
+Rapid Jab	4	0
 Rapid Jab Finisher	6	-32
 Forward Tilt	12	-14
 Up Tilt	7	-15
